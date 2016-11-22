@@ -1,0 +1,152 @@
+.. _article_6:
+
+:tocdepth: 1
+
+Sensitivity: Political Correctness
+==================================
+
+Brant Watson
+------------
+
+At this point the term "politically correct" or PC for short, has taken on a
+life of it's own. It's used to disparage aspects of communication, often with
+the subtext of implying negative motivations. Hence people engaging in speech
+that isn't politically correct are labeled racist, sexist, xenophobic, or any
+other variety of negatively perceived labels. Taken from a different
+perspective it's used as a catch-all that indicates excessive sensitivities.
+Within todays political climate it also acts as a stand-in for the composed and
+scripted nature of the political show.
+
+Trump has used a lack of politically correct speech to convey a feeling of
+reality that those in the political establishment [Clinton] are completely
+devoid of. He is often heralded for his ability to "tell it like it is" without
+being restricted by the irrelevant nuisance of fitting what he says into a nice
+politically correct box.
+
+While obviously not directly invoking the phrase "politically correct", Clinton
+has used the mantra of political correctness to vilify Trump as racist,
+xenopohobic, anti-muslim, etc... and draws upon the organized and controlled
+nature of her political message in order to draw herself as a person who can be
+seen as "presidential". Even the word "presidential" is currently a loaded
+word, easily seen as a stealthy stand-in for political correctness.
+
+All of this is really a bunch of superficial rhetoric that nicely hides a very
+real question about the kind of world we want to live in and it does this by
+asking a slightly different set of questions.
+
+- If being honest will hurt is it better to be honest or kind?
+- Do the ends justify the means? (Is being fake to be elected good because it's
+  necessary to get the job in order to accomplish useful things?)
+
+These are obviously cliche questions, ones that have been perpetually divisive
+because they are overly general and inherently useless. They presuppose that
+the answer to such questions isn't highly contextual with answers lying across
+a spectrum rather than being easily divided onto one side or the other. Despite
+this, people often have personal preferences towards one side or the other in a
+very general way, potentially indicative of a persons more general world-view.
+
+To really think about this without the emotional baggage of the term, it's
+useful to step back and think about this in the abstract. The way questions or
+statements are phrased is extremely important because it sets the context for
+the way one thinks about what is being asked. Consider the following:
+
+- Does life begin at conception?
+- What are the rights of a woman who has conceived?
+- At what point to the rights of a fetus supersede the rights of the mother?
+- Do women have the right to control their own body?
+
+All of these are dealing with the same underlying question. No matter your
+feelings on the issue, it is clear that the framing of the question can make
+the question sound very different. One could use any of those to try to pull
+concessions out of a person with opposing views by forcing them to answer or
+acknowledge THEIR version. This allows one to frame not just the question or
+statement but the response and by proxy the respondent. Politically correct
+speech (and it's antithesis) is simply a manifestation of this idea.
+
+- We need to properly vet all Syrian immigrants entering our country to
+  maintain our safety.
+- Muslims attempting to enter America from Syria need additional vetting to
+  make sure they aren't Islamic extremists.
+
+Those annoyed by politically correct speech would consider the first phrasing
+to be political cowardice. From that angle the first phrase is a refusal to
+accept a particular reality. The utterer won't acknowledge the religious
+implications that seem blindingly obvious. He or she must be either fearful,
+ignorant, or biased.
+
+Flip the tables and you've got someone attempting to acknowledge that there is
+a very real danger without framing the situation in a way that would either
+compromise another value they hold (don't discriminate based on race, religion,
+ethnicity, etc...) or exacerbating existing sensitivities.
+
+And all of that gets back to the heart of the situation. No matter what the
+subject of any particular discourse, the way things are stated informs the
+context and thus the way things are perceived. When people with very different
+perspectives engage, part of the engagement involves maneuvering to guide the
+other person to a place where they understand what you're saying. Identifying
+the perspective different allows us to actually enhance communication if both
+parties are willing to play ball. Phrases like "let me put it to you this way",
+"picture this", "imagine this scenario", and others are pointers to this kind
+of communication. This is an often overlooked but extremely valuable tool. If
+one party won't play ball though, it's usually over an issue that reaches them
+at a deep emotional level. This keeps them from actually seeing the other
+perspective (note here that understanding an alternate perception is not at all
+tantamount to agreeing with it).
+
+Jen: "I am anti-abortion."
+Linda: "You must be a horrible person if you don't believe that a woman
+has the right to control her own body!"
+
+Bob: "I'm pro abortion."
+Jake: "You must be a horrible person if you believe in murdering babies!"
+
+Both of these conversations actually LACK true communication. The parties don't
+see the other persons perspective because they're too wrapped up in their own
+emotions about the subject. Since they never engage properly no real
+information was exchanged. Instead, people formed opinions about the person
+before understanding them.
+
+I know this is a long way around, but this is all critical if I want you to be
+able to understand my perspective (even if you disagree with it). Think back to
+your childhood. Did you ever witness anyone being harmed, either verbally or
+physically? Did you step in and do anything about it? I think most people have
+at least some memory like this. I have just such a memory and the thing that
+bothers me about it the most is my own actions. I did nothing. The reason was
+mostly fear, which I've internalized as a moment of extreme cowardice. Is the
+person who was being harmed then fine now? Sure, but that doesn't actually
+matter. Here I sit in the seat of self judgment and I say that of all of the
+people involved, my actions were the most egregious. It's much easier to do
+nothing than it is to stand up for someone.
+
+By the same token it's very easy to say that people just need to "toughen up",
+but at the end of the day we're really considering what kind of world we want
+to exist in. The reason I'm disappointed with that moment in my own past has
+more to do with the fact that I'd rather exist in a world where people aren't
+being jerks to one another. By doing nothing I compromised my value system and
+did nothing to bring about the change I desired.
+
+People who are really concerned  about peoples sensitivities, that think people
+just need to "toughen up", are  looking for a different world than the one I
+want. They want to live in a world where they don't have to be as thoughtful
+about what they say and how they say it (I imagine this could be characterized
+as not wanting to feel like they are walking on eggshells all the time). They
+don't want the way they are in their heads to be offensive to anyone. They wish
+the world was a place where people were more similar. Diversity is the enemy
+here; the broad differences among people and their values directly gives rise
+to the wider variety of sensitivities.
+
+The reason people get hurt and offended deals directly with whether or not they
+are understood as people. The reason I don't understand  why a depiction of the
+prophet Muhammad is offensive is that I don't fully  understand the people that
+offends. The reason I don't understand why some people are so sensitive about
+cursing or using racial slurs, or any other myriad of sensitives comes down to
+my own lack of understanding of those people. I use the knowledge I have to try
+to speak in an inclusive way because I want to express a degree of respect for
+people I haven't taken the time to know or comprehend.
+
+This leaves me with an opportunity to give politically correct self the finger
+and cast aside any semblance of restraint in order to express the general
+thesis of this article:
+
+People who find themselves genuinely upset about political correctness need to
+stop whining, toughen up, and quit being a sensitive little bitch about it.
