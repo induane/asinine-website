@@ -1,11 +1,11 @@
-.. _article_1:
-
 :tocdepth: 1
 
-Breaking: Anthony Weiner Found Dead
+.. _satire_1:
+
+BREAKING: Anthony Weiner Found Dead
 ===================================
 
-Brant Watson
+:ref:`brant`
 ------------
 
 NUNNELLY, TN—Former U.S. Representative Anthony David Weiner was found dead

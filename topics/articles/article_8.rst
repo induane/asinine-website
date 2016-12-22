@@ -1,12 +1,12 @@
-.. _article_8:
-
 :tocdepth: 1
+
+.. _article_8:
 
 Why the Electoral College Needs to End
 ======================================
 
-Christopher Powell
-------------------
+:ref:`chris`
+------------
 
 Five times in American history we have elevated someone to the office of
 President without a popular mandate. It is a quirk of history that it has, each

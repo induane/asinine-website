@@ -1,12 +1,12 @@
-.. _article_2:
-
 :tocdepth: 1
+
+.. _article_2:
 
 All Politics is Local
 =====================
 
-Christopher Powell
-------------------
+:ref:`chris`
+------------
 
 Something that has been heavy on my mind since the election is what my actions
 and words have done to contribute to the current state of our country.
@@ -28,7 +28,7 @@ sit in our small social groups and talk back and forth to each other. It
 doesn't matter much if your group all thinks the same or has spirited
 disagreement. It's all just talk. There is a phrase in politics about where
 true political influence arises. It is most commonly attributed in origin to
-former House Speaker Tip O'Neil. “All Politics is Local” is the saying. It
+former House Speaker Tip O'Neil. "All Politics is Local" is the saying. It
 means that, ideological arguments on a national scale are not what really
 determines how the electorate votes. What really matters are the local
 economics and experiences that an individual encounters in their daily lives.
@@ -49,7 +49,7 @@ our local community as in years past.
 
 And that is where we need to look for true change. Electing Obama didn't
 suddenly make the country more embracing of diversity and liberal policies.
-Electing Trump won't make America suddenly “great again” and hardcore
+Electing Trump won't make America suddenly "great again" and hardcore
 conservatives.
 
 So perhaps we all (and certainly me more than most) need to take a step back

@@ -1,12 +1,12 @@
-.. _article_4:
-
 :tocdepth: 1
+
+.. _article_4:
 
 Defense and Freedom
 ===================
 
-Jesse Duckworth
----------------
+:ref:`jesse`
+------------
 
 I do not want to offend anyone, but I always want to be honest...
 

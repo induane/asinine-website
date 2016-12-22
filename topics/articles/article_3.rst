@@ -1,12 +1,12 @@
-.. _article_23:
-
 :tocdepth: 1
+
+.. _article_3:
 
 The Reality Check America Needs
 ===============================
 
-Matt Scarlett
--------------
+:ref:`matt`
+-----------
 
 Americans across the country have protested with vigor, anguish and animosity
 against President Elect Donald Trump. They have screamed, stomped, cried and

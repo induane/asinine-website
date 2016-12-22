@@ -24,8 +24,23 @@ we are. Ask anybody.
    topics/articles/article_6
    topics/articles/article_7
    topics/articles/article_8
+   topics/articles/article_9
 
 .. toctree::
    :caption: Satire
 
    topics/satire/satire_1
+   topics/satire/satire_2
+
+.. toctree::
+   :caption: About Us
+
+   topics/about/1_brant
+   topics/about/2_matt
+   topics/about/3_jesse
+   topics/about/4_chris
+
+.. toctree::
+   :caption: Terms
+
+   terminology

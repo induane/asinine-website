@@ -10,13 +10,9 @@ pre {
   overflow-x: auto !important;
 }
 
-.wy-breadcrumbs {
-  display: none !important;
-}
+.wy-breadcrumbs {display: none !important;}
 
-.version {
-  display: none !important;
-}
+.version {display: none !important;}
 
 .wy-side-nav-search {
   background-color: #450001 !important;
@@ -28,11 +24,16 @@ pre {
   background: #450001 !important;
 }
 
-.wy-nav-side {
-    background: #333333 !important;
-}
+.wy-nav-side { background: #333333 !important; }
 
 #articles{display: none !important;}
+#satire{display: none !important;}
+#terms{display: none !important;}
+
+.wy-side-nav-search input[type=text] {
+  border-color: #f5c614 !important;
+  /*border-color: #4887FF !important;*/
+}
 
 /* Hide breadcrumbs navigation links */
 div[aria-label="breadcrumbs navigation"] { display: none !important; }
@@ -44,9 +45,9 @@ div[aria-label="breadcrumbs navigation"] { display: none !important; }
 
 /* Table border changes */
 table.docutils {
-    border-collapse: collapse !important;
-    border-style: none !important;
-    border: 0 !important;
+  border-collapse: collapse !important;
+  border-style: none !important;
+  border: 0 !important;
 }
 
 code {

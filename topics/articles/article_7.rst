@@ -1,11 +1,11 @@
-.. _article_7:
-
 :tocdepth: 1
 
-The Debacle of the Modern Writer
-==================================
+.. _article_7:
 
-Brant Watson
+The Debacle of the Modern Writer
+================================
+
+:ref:`brant`
 ------------
 
 When it comes to writing, superficially it seems easy. Unfortunately when you

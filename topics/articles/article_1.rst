@@ -1,11 +1,11 @@
-.. _article_1:
-
 :tocdepth: 1
+
+.. _article_1:
 
 In Defense of Trump
 ===================
 
-Brant Watson
+:ref:`brant`
 ------------
 
 There is a lot of backlash against Donald J Trump in the wake of Pussygate.

@@ -1,11 +1,11 @@
-.. _article_6:
-
 :tocdepth: 1
+
+.. _article_6:
 
 Sensitivity: Political Correctness
 ==================================
 
-Brant Watson
+:ref:`brant`
 ------------
 
 At this point the term "politically correct" or PC for short, has taken on a
@@ -93,12 +93,12 @@ at a deep emotional level. This keeps them from actually seeing the other
 perspective (note here that understanding an alternate perception is not at all
 tantamount to agreeing with it).
 
-Jen: "I am anti-abortion."
-Linda: "You must be a horrible person if you don't believe that a woman
-has the right to control her own body!"
-
-Bob: "I'm pro abortion."
-Jake: "You must be a horrible person if you believe in murdering babies!"
+| Jen: "I am anti-abortion."
+| Linda: "You must be a horrible person if you don't believe that a woman has the right to control her own body!"
+|
+| Bob: "I'm pro abortion."
+| Jake: "You must be a horrible person if you believe in murdering babies!"
+|
 
 Both of these conversations actually LACK true communication. The parties don't
 see the other persons perspective because they're too wrapped up in their own
