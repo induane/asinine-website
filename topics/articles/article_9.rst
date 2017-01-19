@@ -15,8 +15,8 @@ that most people think they can achieve."*
 
 The words :ref:`conservative` and :ref:`liberal` are thrown around with little
 thought to their underlying meaning. Instead they form divisions between people
-and ideals by ascribing generalized labels, but the reality is that there are
-very few people who aren't deeply conservative.
+and ideals by ascribing generalized labels. The reality is that there are very
+few people who aren't deeply conservative.
 
 Seeming acts of bravery are often the result of deep unrecognized fear; the
 fear of chaos. This deeper fear is strong and insidious enough to drive people
@@ -48,13 +48,13 @@ regulate their own emotions. They know the ground they stand upon is adopted
 and on some level they know the stability of such ground depends on adherence
 to it. It is easy to identify such patterns of thought:
 
-- It's too dangerous!
-- We should go back to what we know works.
-- This problem didn't exist before.
-- We need to know this will work before we try it.
-- At least we know this works.
-- Let's get together for more research and reports.
-- I can't, I have duties and responsibilities.
+- *It's too dangerous!*
+- *We should go back to what we know works.*
+- *This problem didn't exist before.*
+- *We need to know this will work before we try it.*
+- *At least we know this works.*
+- *Let's get together for more research and reports.*
+- *I can't, I have duties and responsibilities.*
 
 For there to be any structure, any stability, any order, one must pull
 something finite out of infinity and organize it. A sufficiently nuanced and
