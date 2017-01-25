@@ -33,6 +33,11 @@ we are. Ask anybody.
    topics/satire/satire_1
 
 .. toctree::
+   :caption: Technology
+
+   topics/tech/1_pretty_cli
+
+.. toctree::
    :caption: About Us
 
    topics/about/1_brant

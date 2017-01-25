@@ -1,4 +1,4 @@
-.pre {
+/*.pre {
   font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace !important;
   color: #000 !important;
   font-size: 15px !important;
@@ -8,7 +8,7 @@ pre {
   font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace !important;
   color: #000 !important;
   overflow-x: auto !important;
-}
+}*/
 
 .wy-breadcrumbs {display: none !important;}
 
@@ -29,11 +29,15 @@ pre {
 #articles{display: none !important;}
 #satire{display: none !important;}
 #terms{display: none !important;}
+#technology{display: none !important;}
 
 .wy-side-nav-search input[type=text] {
   border-color: #f5c614 !important;
   /*border-color: #4887FF !important;*/
 }
+
+/* Don't show the headerlink icon on a mouse hover */
+.headerlink {content: "" !important; display: none !important; }
 
 /* Hide breadcrumbs navigation links */
 div[aria-label="breadcrumbs navigation"] { display: none !important; }
