@@ -5,8 +5,9 @@
 BREAKING: Anthony Weiner Found Dead
 ===================================
 
-:ref:`brant`
-------------
+.. container:: center
+
+    by :ref:`brant`
 
 NUNNELLY, TN—Former U.S. Representative Anthony David Weiner was found dead
 this morning following Donald Trump's stunning general election victory.

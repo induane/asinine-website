@@ -8,8 +8,9 @@ Sensitivity: Bullying
 Shut Up and Stop Whining or: Learn to Embrace Differences Without Being a Little Bitch About It
 -----------------------------------------------------------------------------------------------
 
-:ref:`brant`
-^^^^^^^^^^^^
+.. container:: center
+
+    by :ref:`brant`
 
 We as a nation need to clear the air. This is not a random call for unity or
 some other mystical construction designed to make us all feel warm and fuzzy.

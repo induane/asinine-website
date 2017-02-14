@@ -1,40 +1,27 @@
-/*.pre {
-  font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace !important;
-  color: #000 !important;
-  font-size: 15px !important;
-}
-
-pre {
-  font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace !important;
-  color: #000 !important;
-  overflow-x: auto !important;
-}*/
 
 .wy-breadcrumbs {display: none !important;}
-
 .version {display: none !important;}
 
+/* Site color scheme modifications */
 .wy-side-nav-search {
   background-color: #450001 !important;
   background: #450001 !important;
 }
-
 .wy-nav-top {
   background-color: #450001 !important;
   background: #450001 !important;
 }
-
-.wy-nav-side { background: #333333 !important; }
-
-#articles{display: none !important;}
-#satire{display: none !important;}
-#terms{display: none !important;}
-#technology{display: none !important;}
-
 .wy-side-nav-search input[type=text] {
   border-color: #f5c614 !important;
-  /*border-color: #4887FF !important;*/
 }
+.wy-nav-side { background: #333333 !important; }
+/*a.reference:visited{color: #450001;}*/
+
+/* Hide some headings */
+#articles h2{display: none !important;}
+#satire h2{display: none !important;}
+#terms h2{display: none !important;}
+#technology h2{display: none !important;}
 
 /* Don't show the headerlink icon on a mouse hover */
 .headerlink {content: "" !important; display: none !important; }
@@ -45,8 +32,6 @@ div[aria-label="breadcrumbs navigation"] { display: none !important; }
 /* Special table used for certain figures */
 .figure-table {margin-top: -48px; margin-left: 60px;}
 
-/*.caption-text {color: #FFF;}*/
-
 /* Table border changes */
 table.docutils {
   border-collapse: collapse !important;
@@ -54,28 +39,13 @@ table.docutils {
   border: 0 !important;
 }
 
-code {
-  border: none !important;
-  /*font-size: 100% !important;*/
-  background-color: transparent !important;
-  padding: 0 1px !important;
-}
-
 .center {text-align: center; margin-bottom: 1em;}
 .mono-center {text-align: center; font-family: monospace; margin-bottom: 1em;}
 h1 { text-align: center !important; }
-h2 { text-align: center !important; }
-h3 { text-align: center !important; }
+/*h2 { text-align: center !important; }*/
+/*h3 { text-align: center !important; }*/
 
-div.mono-block {
-    font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace !important;
-    text-align: left;
-    white-space: pre;
-}
-
-.mono-block div::first-letter{ display: none; }
-
-.rst-content dl dt { font-weight: normal !important; }
-
-/* Relax code block style differences */
-.mi, .n, .p, .o, .s1, .kn, .mf, .ow, .k { color: #000; font-weight: normal; }
+/*ul>li .toctree-l1 {list-style: none inside !important; list-style-type: none !important;}*/
+.toctree-l1 {list-style: none inside !important; list-style-type: none !important;}
+.toctree-l2 {list-style: none inside !important; list-style-type: disc !important;}
+/*.toctree-l3 {list-style: none inside !important; list-style-type: none !important;}*/

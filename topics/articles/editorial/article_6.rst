@@ -5,8 +5,9 @@
 Sensitivity: Political Correctness
 ==================================
 
-:ref:`brant`
-------------
+.. container:: center
+
+    by :ref:`brant`
 
 At this point the term "politically correct" or PC for short, has taken on a
 life of it's own. It's used to disparage aspects of communication, often with

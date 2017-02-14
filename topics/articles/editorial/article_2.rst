@@ -5,8 +5,9 @@
 All Politics is Local
 =====================
 
-:ref:`chris`
-------------
+.. container:: center
+
+    by :ref:`chris`
 
 Something that has been heavy on my mind since the election is what my actions
 and words have done to contribute to the current state of our country.

@@ -5,8 +5,9 @@
 In Defense of Trump
 ===================
 
-:ref:`brant`
-------------
+.. container:: center
+
+    by :ref:`brant`
 
 There is a lot of backlash against Donald J Trump in the wake of Pussygate.
 Defending the comments is an exercise in futility; the outrage against it makes

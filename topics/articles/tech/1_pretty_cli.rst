@@ -5,8 +5,10 @@
 Beautiful Command Line Output
 =============================
 
-:ref:`brant`
-------------
+.. container:: center
+
+    by :ref:`brant`
+
 Python has excellent tooling for making highly functional command line
 utilities, but misunderstanding them has lead to many inconsistent and
 problematic tools. In this article, I'll introduce you to some simple concepts

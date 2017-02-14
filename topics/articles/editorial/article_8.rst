@@ -5,8 +5,9 @@
 Why the Electoral College Needs to End
 ======================================
 
-:ref:`chris`
-------------
+.. container:: center
+
+    by :ref:`chris`
 
 Five times in American history we have elevated someone to the office of
 President without a popular mandate. It is a quirk of history that it has, each
@@ -66,7 +67,7 @@ celebration of freedom and democracy.
 
 .. _divmap:
 
-.. figure:: ../../images/nation_divide.jpg
+.. figure:: ../../../images/nation_divide.jpg
 
         The real political map of America: We are not that divided.
         Source: `Gizmoto

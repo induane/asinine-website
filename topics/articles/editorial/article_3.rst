@@ -5,8 +5,9 @@
 The Reality Check America Needs
 ===============================
 
-:ref:`matt`
------------
+.. container:: center
+
+    by :ref:`matt`
 
 Americans across the country have protested with vigor, anguish and animosity
 against President Elect Donald Trump. They have screamed, stomped, cried and

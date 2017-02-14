@@ -5,8 +5,9 @@
 Defense and Freedom
 ===================
 
-:ref:`jesse`
-------------
+.. container:: center
+
+    by :ref:`jesse`
 
 I do not want to offend anyone, but I always want to be honest...
 

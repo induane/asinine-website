@@ -5,8 +5,9 @@
 The Debacle of the Modern Writer
 ================================
 
-:ref:`brant`
-------------
+.. container:: center
+
+    by :ref:`brant`
 
 When it comes to writing, superficially it seems easy. Unfortunately when you
 sit down to write something you come face to face with the difficult problem of

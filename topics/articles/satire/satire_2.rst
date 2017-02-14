@@ -5,8 +5,9 @@
 I Hate It When The Headline Says It All
 =======================================
 
-:ref:`brant`
-------------
+.. container:: center
+
+    by :ref:`brant`
 
 One of my biggest pet peeves in media these days are overly descriptive
 headlines. "Climate Change Is Altering Weather Patterns", "Your Pet May Be

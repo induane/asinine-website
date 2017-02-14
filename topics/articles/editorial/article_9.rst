@@ -5,13 +5,19 @@
 Institutionalized Cowardice
 ===========================
 
-:ref:`brant`
-------------
+.. container:: center
 
-*"Caution is the path to mediocrity. Gliding, passionless mediocrity is all
-that most people think they can achieve."*
+    by :ref:`brant`
 
-— Frank Herbert
+|
+
+.. admonition:: Quote
+   :class: admonition-todo
+
+   Caution is the path to mediocrity. Gliding, passionless mediocrity is all
+   that most people think they can achieve.
+
+   — Frank Herbert
 
 The words :ref:`conservative` and :ref:`liberal` are thrown around with little
 thought to their underlying meaning. Instead they form divisions between people
@@ -90,19 +96,22 @@ what *is* that they fear change itself. They believe they have become wise.
 Many even fear questioning the system that gives them their sense of stability
 and in doing so suppress another forgotten aspect of human nature:
 
-    *"For all its material advantages, the sedentary life has left us edgy,
-    unfulfilled. Even after 400 generations in villages and cities, we haven't
-    forgotten. The open road still softly calls, like a nearly forgotten song
-    of childhood. We invest far-off places with a certain romance. This appeal,
-    I suspect, has been meticulously crafted by natural selection as an
-    essential element in our survival. Long summers, mild winters, rich
-    harvests, plentiful game—none of them lasts forever. It is beyond our
-    powers to predict the future. Catastrophic events have a way of sneaking up
-    on us, of catching us unaware. Your own life, or your band’s, or even your
-    species' might be owed to a restless few—drawn, by a craving they can
-    hardly articulate or understand, to undiscovered lands and new worlds."*
+.. admonition:: Quote
+   :class: admonition-todo
 
-    — Carl Sagan
+   For all its material advantages, the sedentary life has left us edgy,
+   unfulfilled. Even after 400 generations in villages and cities, we haven't
+   forgotten. The open road still softly calls, like a nearly forgotten song of
+   childhood. We invest far-off places with a certain romance. This appeal, I
+   suspect, has been meticulously crafted by natural selection as an essential
+   element in our survival. Long summers, mild winters, rich harvests,
+   plentiful game—none of them lasts forever. It is beyond our powers to
+   predict the future. Catastrophic events have a way of sneaking up on us, of
+   catching us unaware. Your own life, or your band’s, or even your species'
+   might be owed to a restless few—drawn, by a craving they can hardly
+   articulate or understand, to undiscovered lands and new worlds.
+
+   — Carl Sagan
 
 You who call yourself a :ref:`liberal` need only cast a wary and uncompromising
 eye upon yourself to see the conceit inherent in your own mode of being. The
@@ -131,6 +140,5 @@ yourself though! Most think this of themselves without realizing their loyalty
 has been bought and paid for by keeping that pesky chaos at bay. People revere
 those who step boldly out into the unknown and imbue them with such reverie
 that they fail to understand the lesson such people teach: *There is value in
-acknowledging that chaos exists, in moving beyond the safe and known out into
-the chaos of existence. Fear leads to mediocrity and stagnation and a penchant
-for safety.*
+embracing disorder, in moving beyond the safe and known out into the chaos of
+existence. Fear leads to mediocrity and stagnation and a penchant for safety.*
