@@ -61,7 +61,7 @@ us more safe. Certainly others would counter that being discriminatory fuels a
 narrative that is often used to radicalize and recruit people into terrorist
 groups and that, by proxy, makes Americans less safe. This too is a valid
 point. The whole situation is complex and it's not necessarily possible to
-fully untangle whether or not Executive Order 12769 actually makes us safer.
+fully untangle whether or not Executive Order 13769 actually makes us safer.
 There are many opinions on this, and they are just that—opinions. Vilifying
 each other for holding a position on one side or the other doesn't really
 accomplish anything. All it does is serve to further push people apart,

@@ -3,7 +3,7 @@
         Crush our enemies. See them driven before us. Hear the lamentations of
         our readers.
 
-.. _harrenpres:
+.. _harrenpress:
 
 Harren Press
 ============
