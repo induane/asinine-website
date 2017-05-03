@@ -1,4 +1,4 @@
-# Makefile for building GEB
+# Makefile for building doc
 
 PYTHON=python2.7
 ENV_DIR=.env_$(PYTHON)

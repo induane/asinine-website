@@ -1,85 +1,42 @@
 :tocdepth: 1
 
-.. _new_declaration:
+.. _article_12:
 
-A Declaration
-=============
+If I were President #1
+======================
 
-CONCEPTION JANUARY 28th 2017
+.. container:: center
 
-This constitutes declaration unanimous among those who have seen fit to attach
-their signature either in person or in digital form to this document. This is
-not an absolute and total unanimity among the entirety of the population of the
-United States of America, nor should it under any circumstance be regarded or
-construed as such.
+    by :ref:`jesse`
 
-On July 4th of 1776, a document was drawn in the form of
-:ref:`declaration_of_independence`. This document laid the initial foundation
-for an independent society which would eventually become known as The United
-States of America and contains the following passage:
+Preface
+-------
 
-    *When, in the course of human events, it becomes necessary for one people
-    to dissolve the political bonds which have connected them with another, and
-    to assume among the powers of the earth, the separate and equal station to
-    which the laws of nature and of nature's God entitle them, a decent respect
-    to the opinions of mankind requires that they should declare the causes
-    which impel them to the separation.*
+I feel like I must write a preface for this piece. This isn't the laying out of a liberal idea from a liberal, nor am I some cuckservative (look it up and don't be one). I'm the most conservative person in Asinine, which isn't saying much considering the others range from Bernie Sanders to Joseph Stalin (not sure what the difference is actually). It's a joke, people. Everyone knows Stalin was more moderate...
 
-    *We hold these truths to be self-evident, that all men are created equal,
-    that they are endowed by their Creator with certain unalienable rights,
-    that among these are life, liberty and the pursuit of happiness. That to
-    secure these rights, governments are instituted among men, deriving their
-    just powers from the consent of the governed. That whenever any form of
-    government becomes destructive to these ends, it is the right of the people
-    to alter or to abolish it, and to institute new government, laying its
-    foundation on such principles and organizing its powers in such form, as to
-    them shall seem most likely to effect their safety and happiness.*
+Ah, yes! I remember where I was going with this! I reside somewhere on the political spectrum in the void between libertarian and conservatism. I believe in self-reliance and the government staying out of our way. I believe that taxes should be minimal (and I wish a flat tax was feasible too) and the government should be so small you can barely see it (preferably with a telescope—yes, I mean telescope. Let's send them to the moon). With all this being said, if I were president, one piece of my domestic policy would irk most conservatives. I believe no one should be homeless in America.
 
-All things constructed must have a solid foundation upon which to build if they
-are to endure. It is in this spirit that we hold that the values exuded in the
-above passages are of sound mind and applicable to contemporary society as it
-was applicable to the foundation of the United States of America.
+Logistics
+---------
 
-TYPE IMPORTANT MEANINGFUL SHIT HERE...
+You might say:
 
-Important Values
-----------------
-We hold that the capital is a product of the intellectual and physical labor of
-workers and as such the rights of the worker should be held to be above that of
-capital.
+"*But Jesse, if you reward laziness, more people will be homeless and take advantage of this program.*" (I understand my strawman lacks nuance... continue on) or, "*How can we possibly afford this program?*"
 
-ADD MORE IMPORTANT VALUES
+Hear me out with an open mind.
 
-Purpose of Government
----------------------
+According to the `2016 Annual Homeless Assessment Report <https://www.hudexchange.info/resources/documents/2016-AHAR-Part-1.pdf>`_ done by the U.S. Department of Housing and Urban Development (HUD), there were 549,928 homeless people in America. 32% lived in unsheltered locations. 176,000 homeless people lived on the streets and nearly half of those were chronically homeless. 22% of the total homeless were children.
 
-Preservation of the physical safety of those within it's borders, with priority
-given to the gravity of known risks. Expenditure on prevention and security
-should thus be proportional to the risk posed by each source of risk.
+Those numbers should be zero. I know it's impossible to have zero just like it was impossible to get everyone to sign up for healthcare under the Affordable Care Act (regardless of its successes or failures). We cannot force people to come in off the streets. However, we can increase opportunity and accessibility for the homeless and I think we can do so cheaply (less than we would spend on a border wall and less than our increase in military spending this budget).
 
-.. note:: This does not include recreational risk undertaken by independent
-    actors. For instance, there should not be government expenditure or
-    regulation on making rock climbing safer.
+My idea is simple, naïve, and idealistic.
 
-To lay and maintain an infrastructure and regulatory framework which enables
-enterprise to prosper. This includes—but is not limited to—transportation
-infrastructure (both bulk and personal),
+If I were president I would propose categorical grants to the states to buy cheap buildings or repurpose already owned government buildings that are empty or underutilized (6,700 vacant buildings and 71,000 underutilized buildings are already owned by the government that we already pay around 1.7 billion for per year according to a `2012 report <http://www.gao.gov/assets/600/591751.pdf>`_ by the U.S. Government Accountability Office).
 
+"*What would we do with these buildings?*"
 
-Grievances
-----------
-Air grievances in this section
+We would provide basic needs. The homeless would have a place to sleep and/or take a hot shower. It would be a place where kids who have nothing or a veteran suffering from PTSD can stay warm on the coldest of nights. These could be places where we take a step towards bringing these people back in the fold of society and out of the darkness of mental illness, substance abuse, or loss of a job.
 
-.. _final_dec:
+"*Why?*"
 
-We thus state... really profound stuff
-
-
-.. _newdec_sig_start:
-|
-| Asinine
-| BRANT WATSON
-| JESSE DUCKWORTH
-| CHRISTOPHER POWELL
-| MATTHEW SCARLETT
-|
+Because this is America.
