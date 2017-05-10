@@ -124,7 +124,7 @@ everyone is ready or willing to heal.
 
 Shut off your constant news feed. Purge your daily intake of hatred and
 cathartic trolling and entertainment news and talking heads and sound-bites and
-pandering news and bitching about the state of things and just **stop**. Stop
+pandering and bitching about the state of things and just **stop**. Stop
 everything. Find stillness and quiet. Peace. Look inward towards the piece of
 you that you're defending with your fortifications and remember a deeply human
 child-like naivety that is capable of unrestricted joy and trust and love and
