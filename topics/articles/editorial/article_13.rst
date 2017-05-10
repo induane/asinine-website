@@ -67,84 +67,6 @@ what point does this dose become **poison**?
 
 Solutions
 ---------
-It's an oversimplification to distill a complex issue into a few simple
-solutions. Thus don't take this as a list of possible ways to fix the issue but
-rather as additional ways to meditate on the issues at hand. Most people
-operate in some combination of these modes others that aren't listed here at
-all. The way forward is to find some way to build a bridge of understanding
-between the very ideas that divide us.
-
-.. _option1:
-
-Option 1: War
-,,,,,,,,,,,,,,
-Confront and battle any opposing ideals. Disparage the enemy. Crush them if it
-becomes untenable for both of you to exist simultaneously. Push your ideology
-and rejoice when it's goals meet with success. Revel in the outrage of the
-opposition when you score a victory, enjoying the pain of the opposition. Rage
-or despair when ideological goals are blocked or disrupted by others. Push your
-agenda as if the only world you'd be happy to live in is one where your ideas
-are sacrosanct. If the tide turns against you, resort to any means necessary to
-preserve your goals. Obstruct. Harm. Destroy. Cooperation is for cowards with
-no clear moral imperatives. Hold the line and refuse to entertain alternative
-futures or any idea that any of your core beliefs are possibly on shaky ground.
-You are the warrior for truth and justice. Do not be afraid to start a war
-where none existed. Battle lines need drawn.
-
-This may sound cynical but it's not without merit. It implies a strong
-hierarchy and a clear direction from which values and action originate.
-Militaries have long recognized the efficacy of such a conceptual system and
-gains their strength by forcing as much order and rigor as possible.
-
-.. _option2:
-
-Option 2: Passive
-,,,,,,,,,,,,,,,,,
-Though not dissimilar to the path of war, this path is more ego driven and full
-of self indulgence. Believe in the war but participate only indirectly.
-Vicariously live through those at war as an armchair quarterback content in the
-knowledge that you would have made better choices if YOU were in charge or
-confident in the infallibility of your hero of the week. Never give any
-intellectual ground and engage in elaborate self deception which allows
-convince yourself that you gave other ideas a fair trial even though the
-verdict was announced before the opening arguments. Believe fervently that if
-you held the reigns then the world would be a better place were you not so
-inconsequential. Listen only enough to find rebuttal but never enough to really
-hear a person. Poke and prod your intellectual enemies and let each response
-buttress your sense of rightness. Don't identify or empathize with these
-people. They wouldn't empathize with you and so you owe them nothing.
-
-Obviously more passive, this is the tact taken by many regardless of their
-ideology. The passive are the culture which war protects and the reason they do
-battle. An army needs support and this element is a place from which to draw
-it.
-
-.. _option3:
-
-Option 3: Distraction
-,,,,,,,,,,,,,,,,,,,,,
-Rather than participating simply ignore all sides of things until they directly
-confront you. If you're sad look for something to make you happy. Go out to eat
-or watch television or a movie. Never give yourself fully to anything. Instead,
-merely survive. The journey of life isn't very important and what you do
-doesn't matter anyway. You're afraid of death though so simply do whatever
-feels good and keeps you from considering the inevitable. Work. Consume. Buy
-things you don't need. Live in debt so you have some pressure to get out of bed
-in the morning and go to work. Avoid thinking about purpose and engage in
-religious rituals to convince you there is intrinsic meaning to your existence.
-Deep down you don't believe it but that only wells up when you've got too much
-time to think. Inevitability will catch up with you someday but the encounter
-will be brief and you'll deal with it then.
-
-Many do this frequently. When they are unable to distract themselves they spend
-a bit of time in :ref:`option1` or :ref:`option2` as an additional means of
-escapism. It's not a path to inner peace but it works well enough to get most
-people through the day.
-
-.. _option4:
-
-Option 4: Reflection
-,,,,,,,,,,,,,,,,,,,,
 In all the raging turmoil of life, culture, social media, the 24 hour news
 cycle, left vs right, nationalism vs globalism, etc... it's easy to feel adrift
 or inconsequential. On a grand enough scale anything finite is a mere mote set
@@ -201,7 +123,7 @@ judgment and it's the first step in healing your own persistent wounds. Not
 everyone is ready or willing to heal.
 
 Shut off your constant news feed. Purge your daily intake of hatred and
-cathartic trolling and entrainment news and talking heads and sound-bites and
+cathartic trolling and entertainment news and talking heads and sound-bites and
 pandering news and bitching about the state of things and just **stop**. Stop
 everything. Find stillness and quiet. Peace. Look inward towards the piece of
 you that you're defending with your fortifications and remember a deeply human
