@@ -54,7 +54,7 @@ overly attuned and you begin to see it even when it's not there. An animal in
 the clouds. An image in smoke. Two headlights and a grill conjure a face.
 Abstract information is the canvas on which our minds paint.
 
-It's this adaptation requires us to be cautious with the information we
+It's this adaptation that requires us to be cautious with the information we
 consume. Our daily ritual of enjoying the clash of egos, attacks on ideas, and
 vilifications of groups leaves us nothing but a hollow shell vicariously living
 through media personalities and reveling conflict like a kid at the movies.
@@ -77,7 +77,7 @@ deeper and more spiritual. What is it that we are? If we wish to find peace
 then we should figure out what it is that *desires* peace.
 
 Pursue these questions with curiosity and courage. Pointing out issues is
-simple. Far harder is is finding solutions. These begin with the self and not
+easier by far than finding solutions. These begin with the self and not
 others but admitting this can be a shot to the ego. "The problem isn't ME it's
 all these jerks and idiots." No, the problem is within you. It's the rot and
 darkness and fears that we project or ignore or defy. There is no peace to be
@@ -88,14 +88,14 @@ reinforces our existing views. But the media is not the real problem.
 
 If you were stripped free of the baggage of your life, clean down to the
 deepest parts of your soul so that you were once again as naive as a child, you
-find would pieces of yourself that are currently missing or hidden. We bury or
-kill aspects of ourselves because we're small and scared and sensitive. We
-surround ourself with our own constructions designed to protect this piece of
-ourselves. Forts go up. Walls. Abstractions. Intellectualizations.
-Rationalizations. They attempt to protect the soft parts of our flank. Each
-unkindness the world brought us is baked into a new brick for our
-fortifications. Sometimes we are hurt so deeply that we are unable to remove
-the blade, leaving a vulnerability which no fortification can protect.
+would find missing or hidden pieces of yourself. We bury or kill aspects of
+ourselves because we're small and scared and sensitive. We surround ourself
+with our own constructions designed to protect this piece of ourselves. Forts
+go up. Walls. Abstractions. Intellectualizations. Rationalizations. They
+attempt to protect the soft parts of our flank. Each unkindness the world
+brought us is baked into a new brick for our fortifications. Sometimes we are
+hurt so deeply that we are unable to remove the blade, leaving a vulnerability
+which no fortification can protect.
 
 When we stare out from our own fortifications we don't see the pure version of
 anyone. We see *their* facades and forts and the blades they couldn't remove
