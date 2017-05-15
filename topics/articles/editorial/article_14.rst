@@ -66,7 +66,7 @@ true, here are the actual numbers.
 "It is estimated that 10 of 1000 (1%) uncircumcised male infants will develop a
 UTI during the first year of life compared with 1 of 1000 (0.1%) circumcised
 male infants." Source: `National Center for
-Biotechnology Information <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1477524/>`_
+Biotechnology Information <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1477524/>`__
 
 So the chances go from .1% to 1% and can be reduced through good hygiene.
 
@@ -92,7 +92,7 @@ Biotechnology Information (NCBI) adds that there are "... over 40 studies which
 shows that male circumcision provides significant protection against HIV
 infection; circumcised males are two to eight times less likely to become
 infected with HIV." Source: `National Center for
-Biotechnology Information <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1127372/#B2>`_
+Biotechnology Information <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1127372/#B2>`__
 
 So, how many Americans have HIV in America? The CDC says there are more than
 1.2 million Americans with HIV and 1 in 8 do not know they have it

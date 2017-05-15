@@ -1,85 +1,43 @@
 :tocdepth: 1
 
-.. _new_declaration:
+.. _article_15:
 
-A Declaration
-=============
+Purpose. Vanity. Connection.
+============================
 
-CONCEPTION JANUARY 28th 2017
+.. container:: center
 
-This constitutes declaration unanimous among those who have seen fit to attach
-their signature either in person or in digital form to this document. This is
-not an absolute and total unanimity among the entirety of the population of the
-United States of America, nor should it under any circumstance be regarded or
-construed as such.
+    by :ref:`chris`
 
-On July 4th of 1776, a document was drawn in the form of
-:ref:`declaration_of_independence`. This document laid the initial foundation
-for an independent society which would eventually become known as The United
-States of America and contains the following passage:
+*What are we doing here, anyway?*
 
-    *When, in the course of human events, it becomes necessary for one people
-    to dissolve the political bonds which have connected them with another, and
-    to assume among the powers of the earth, the separate and equal station to
-    which the laws of nature and of nature's God entitle them, a decent respect
-    to the opinions of mankind requires that they should declare the causes
-    which impel them to the separation.*
+That's the central question. I'm not breaking any new ground here. The subject has been tackled countless times throughout our history but—as of yet—nobody has been able to answer it.
 
-    *We hold these truths to be self-evident, that all men are created equal,
-    that they are endowed by their Creator with certain unalienable rights,
-    that among these are life, liberty and the pursuit of happiness. That to
-    secure these rights, governments are instituted among men, deriving their
-    just powers from the consent of the governed. That whenever any form of
-    government becomes destructive to these ends, it is the right of the people
-    to alter or to abolish it, and to institute new government, laying its
-    foundation on such principles and organizing its powers in such form, as to
-    them shall seem most likely to effect their safety and happiness.*
+Socrates is purported to have said, *"the unexamined life is not worth living."*\ Why? What good comes of self-examination? Where does Socrates get off saying somebody's life isn't worth living because their time isn't spent time narcissistically navel-gazing in an attempt to achieve SELF-fulfillment?
 
-All things constructed must have a solid foundation upon which to build if they
-are to endure. It is in this spirit that we hold that the values exuded in the
-above passages are of sound mind and applicable to contemporary society as it
-was applicable to the foundation of the United States of America.
+Don't get me wrong; I understand where Socrates is coming from because I'm the same way. I look at people in whom I perceive little or no self-awareness blustering through life as if it all makes sense, and I judge them harshly. Their inability to see the great cosmic joke that is existence renders them little better than their simian ancestors.
 
-TYPE IMPORTANT MEANINGFUL SHIT HERE...
+And I build myself an ivory tower so that I can distance myself from these cretins, to lift myself up towards true meaning. I focus inward so that I can refine myself into the best self that I can be. For I can succeed where all before me have failed. I will discover the point of it all, for everyone.
 
-Important Values
-----------------
-We hold that the capital is a product of the intellectual and physical labor of
-workers and as such the rights of the worker should be held to be above that of
-capital.
+And here many stumble. Many, indeed, do find that meaning. It's so simple! You just have to blind yourself to the inconsistencies and flaws, and it all makes sense!
 
-ADD MORE IMPORTANT VALUES
+Others soldier on, flitting from one philosophy to the next, mixing and matching, never fully satisfied with any of it. Some theories fit for a while, but with time the flaws begin to show, the foundation cracks, and it crumbles down around them. Time to start again.
 
-Purpose of Government
----------------------
+Until finally they get it. The big joke. There isn't any meaning at all! Not objective meaning anyway. Meaning is an artifact of the conscious mind. We are the creators of meaning.
 
-Preservation of the physical safety of those within it's borders, with priority
-given to the gravity of known risks. Expenditure on prevention and security
-should thus be proportional to the risk posed by each source of risk.
+So what then? After devoting yourself fully to a goal, and finding out it doesn't even exist, what do you do? Can you answer that, Socrates? I bet not, you dead bastard. [#f1]_
 
-.. note:: This does not include recreational risk undertaken by independent
-    actors. For instance, there should not be government expenditure or
-    regulation on making rock climbing safer.
+Many come up with pretty and romantic ways to describe this inevitable conclusion. Oneness with the universe. Acceptance. Rejoining the whole you never actually left. All nice ways to say that life is void of objective meaning and then you die.
 
-To lay and maintain an infrastructure and regulatory framework which enables
-enterprise to prosper. This includes—but is not limited to—transportation
-infrastructure (both bulk and personal),
+Suddenly those cretins who didn't examine their life seem a whole lot smarter. They may not understand the underlying concept of why the ultimate question is a fool's pursuit, but they are reaping the benefits nonetheless.
 
+What's the answer? You haven't really been paying attention, have you? I can't give you an answer. Figure it out yourself you lazy bum.
 
-Grievances
-----------
-Air grievances in this section
+I can tell you that for me, I get joy and fulfillment from abandoning the concept of self. I am fulfilled not by the purpose of MY life, but from the connections I share with those making this journey with me. It's the only thing that still feels real to me, even though it's very near the top of the list in terms of abstraction. *I* am nothing. *We* are everything.
 
-.. _final_dec:
+But my favorite answer is still, and will likely always be, 42.
 
-We thus state... really profound stuff
+.. rubric:: Footnotes
 
+.. [#f1] It turns out that Socrates had a father named Sophroniscus. Source: `Wikipedia <https://en.wikipedia.org/wiki/Sophroniscus>`__
 
-.. _newdec_sig_start:
-|
-| Asinine
-| BRANT WATSON
-| JESSE DUCKWORTH
-| CHRISTOPHER POWELL
-| MATTHEW SCARLETT
-|
