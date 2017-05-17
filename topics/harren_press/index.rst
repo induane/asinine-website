@@ -40,9 +40,8 @@ fights, it will be his own.
 
 Cloud Caller
 ------------
-The Adventures of Weylin Book 1
 
-.. figure:: ../../images/cloud_caller.jpg
+.. figure:: ../../images/cloud_caller_small.jpg
         :target: https://smile.amazon.com/Cloud-Caller-Roy-C-Booth-ebook/dp/B0725CHQ5L/
         :align: left
 
