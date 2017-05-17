@@ -13,7 +13,7 @@ Purpose. Vanity. Connection.
 
 That's the central question. I'm not breaking any new ground here. The subject has been tackled countless times throughout our history but—as of yet—nobody has been able to answer it.
 
-Socrates is purported to have said, *"the unexamined life is not worth living."*\ Why? What good comes of self-examination? Where does Socrates get off saying somebody's life isn't worth living because their time isn't spent time narcissistically navel-gazing in an attempt to achieve SELF-fulfillment?
+Socrates is purported to have said, *"the unexamined life is not worth living."* Why? What good comes of self-examination? Where does Socrates get off saying somebody's life isn't worth living because their time isn't spent time narcissistically navel-gazing in an attempt to achieve SELF-fulfillment?
 
 Don't get me wrong; I understand where Socrates is coming from because I'm the same way. I look at people in whom I perceive little or no self-awareness blustering through life as if it all makes sense, and I judge them harshly. Their inability to see the great cosmic joke that is existence renders them little better than their simian ancestors.
 

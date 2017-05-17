@@ -37,6 +37,28 @@ fights, it will be his own.
 
 `buy on amazon <https://smile.amazon.com/Song-Betrayal-Adventures-Weylin-Book-ebook/dp/B00EYPUJB2/>`__
 
+
+Cloud Caller
+------------
+The Adventures of Weylin Book 1
+
+.. figure:: ../../images/cloud_caller.jpg
+        :target: https://smile.amazon.com/Cloud-Caller-Roy-C-Booth-ebook/dp/B0725CHQ5L/
+        :align: left
+
+| *The Cloud Caller has withered away.*
+| *The Rains have ceased.*
+| *The land is dying.*
+|
+
+Iriana is the last hope against the marching Dreanu army, yet she lacks
+her mother’s gift. She must overcome the loss of her mother and awaken
+the power within herself or the Order of the Six will fall and the land
+will follow.
+
+`buy on amazon <https://smile.amazon.com/Cloud-Caller-Roy-C-Booth-ebook/dp/B0725CHQ5L/>`__
+
+
 The Bone Sword
 --------------
 Cycle of Malik Book 1
@@ -88,9 +110,9 @@ Tinkered Tales Book 1
         :target: https://smile.amazon.com/Gears-Gadgets-Steam-Tinkered-Tales-ebook/dp/B00WYOSXEA/
         :align: left
 
-| Gears turn.
-| Gadgets whir.
-| Steam rises.
+| *Gears turn.*
+| *Gadgets whir.*
+| *Steam rises.*
 |
 
 When the smoke clears, a story was left behind. One full of adventure and
