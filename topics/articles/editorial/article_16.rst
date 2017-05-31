@@ -1,85 +1,70 @@
 :tocdepth: 1
 
-.. _new_declaration:
+.. _article_16:
 
-A Declaration
+
+Fox is Boring
 =============
 
-CONCEPTION JANUARY 28th 2017
+.. container:: center
 
-This constitutes declaration unanimous among those who have seen fit to attach
-their signature either in person or in digital form to this document. This is
-not an absolute and total unanimity among the entirety of the population of the
-United States of America, nor should it under any circumstance be regarded or
-construed as such.
-
-On July 4th of 1776, a document was drawn in the form of
-:ref:`declaration_of_independence`. This document laid the initial foundation
-for an independent society which would eventually become known as The United
-States of America and contains the following passage:
-
-    *When, in the course of human events, it becomes necessary for one people
-    to dissolve the political bonds which have connected them with another, and
-    to assume among the powers of the earth, the separate and equal station to
-    which the laws of nature and of nature's God entitle them, a decent respect
-    to the opinions of mankind requires that they should declare the causes
-    which impel them to the separation.*
-
-    *We hold these truths to be self-evident, that all men are created equal,
-    that they are endowed by their Creator with certain unalienable rights,
-    that among these are life, liberty and the pursuit of happiness. That to
-    secure these rights, governments are instituted among men, deriving their
-    just powers from the consent of the governed. That whenever any form of
-    government becomes destructive to these ends, it is the right of the people
-    to alter or to abolish it, and to institute new government, laying its
-    foundation on such principles and organizing its powers in such form, as to
-    them shall seem most likely to effect their safety and happiness.*
-
-All things constructed must have a solid foundation upon which to build if they
-are to endure. It is in this spirit that we hold that the values exuded in the
-above passages are of sound mind and applicable to contemporary society as it
-was applicable to the foundation of the United States of America.
-
-TYPE IMPORTANT MEANINGFUL SHIT HERE...
-
-Important Values
-----------------
-We hold that the capital is a product of the intellectual and physical labor of
-workers and as such the rights of the worker should be held to be above that of
-capital.
-
-ADD MORE IMPORTANT VALUES
-
-Purpose of Government
----------------------
-
-Preservation of the physical safety of those within it's borders, with priority
-given to the gravity of known risks. Expenditure on prevention and security
-should thus be proportional to the risk posed by each source of risk.
-
-.. note:: This does not include recreational risk undertaken by independent
-    actors. For instance, there should not be government expenditure or
-    regulation on making rock climbing safer.
-
-To lay and maintain an infrastructure and regulatory framework which enables
-enterprise to prosper. This includes—but is not limited to—transportation
-infrastructure (both bulk and personal),
+    by :ref:`brant`
 
 
-Grievances
-----------
-Air grievances in this section
+.. figure:: ../../../images/disaster_voyeurism.jpg
 
-.. _final_dec:
+        Hurricane forums are full of excited comments about central pressure
+        and wind speed and comparisons to Camille and 1931 and 1938, with
+        hastily-tacked-on notes about how it will be tragic if anyone dies and
+        they hope it's a dud. Source: `XKCD <https://xkcd.com/611/>`__
 
-We thus state... really profound stuff
 
+Fox News rose to prominence by casting itself as *the* conservative channel. As
+a business maneuver this was extraordinarily successful. The act of self
+labeling as right of center left all the other news organizations to fight like
+scavengers over the other half of the spectrum. It didn't take long for MSNBC
+to attempt to clone the success of Fox by essentially becoming it's left wing
+mirror. Early under Bush, Fox News was successful in courting a breed of
+patriotism and acting as a bulwark against left wing anti-war sentiments. In
+the Obama administration the news station was part of the cultural and
+political opposition to the left wing power structures.
 
-.. _newdec_sig_start:
-|
-| Asinine
-| BRANT WATSON
-| JESSE DUCKWORTH
-| CHRISTOPHER POWELL
-| MATTHEW SCARLETT
-|
+Now Fox's dominance is slipping. It's easy to think that is the result of
+recent shake-ups in their line-up and some of the scandals that have plagued
+the network but this isn't the whole story. Tucker Carlson took over Bill
+O'Reilly's slot and initially easily maintained his ratings. In fact Fox
+weathered most of the scandals just fine without a major loss in ratings, at
+least until very recently.
+
+While some may try to deny it on some level, people love spectacle. And whether
+or not you think that the bulk of the drama surrounding the Trump
+administration is a conspiracy by the left wing media cabal, completely true,
+or some intricate and nuanced mixture of the two, it is difficult to miss the
+fact that it's highly entertaining. Whether it's invented or not, Fox is
+missing the best political soap opera in recent memory—maybe even the best in
+all of American history.
+
+Currently Fox and it's evening comentary shows are running headlines that are
+permutations of the following:
+
+- Why [insert latest scandal here] isn't a big deal
+- Leftist anti-free speech on college campus
+- Stories about cultural wars:
+  - people saying bad things about Trump
+  - paid protestors
+  - snowflake generation articles about millenials
+  - ethnic/sexual/gender idenity
+  - people faking hate-speech
+- Hillary/Killary scandals or shady dealings
+
+Obviously this is a bit of a strawman as it's not easy to do a deep statistical
+topical analysis. In any case though I think it's the source of Fox's recent
+problems. Some of those stories have been running on Fox in some form or
+another for years now. That gets boring no matter how good or accurate the
+actual stories are.
+
+News is—by some definitions anyway—what's going wrong. No one wants to see the
+headline **"112,924 Flights Landed Safely Today"** on the front page every day.
+It's not news. By not joining in the media's feeding frenzy over the Trump
+administration, Fox is missing out on the fodder that is driving the ratings of
+their competition.

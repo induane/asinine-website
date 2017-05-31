@@ -34,3 +34,12 @@ we are. Ask anybody.
    :caption: Reference Material
 
    references/index
+
+
+If you like what we do or are just one of those people with piles and piles of
+Bitcoin lying around, here is our deposit address:
+
+.. figure:: images/pub_key.png
+
+      16Mfp5hjBmro5p4Kg6z4XqvVmrWbzq17px
+
