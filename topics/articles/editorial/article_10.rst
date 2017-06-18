@@ -97,8 +97,10 @@ Estimated Annual Deaths:
     - 595,690 cancer
     - 234,051 diabetes & diabetes complications
     - 44,193 suicide (all)
+    - 15,000 Opioid overdose
     - 21,175 suicide by gun
     - 93,541 Alzheimer's
+    - 31,959 Accidental fall
     - 30,781 accidental poisoning
     - 30,722 alcohol (legal substance) related
     - 19,388 alcoholic liver disease (subset of alcohol induced)
@@ -113,6 +115,7 @@ Estimated Annual Deaths:
     - 548 murder, blunt object
     - 769 murder, hands, fists, feet, etc..
     - 35,092 car accident (and another 20-50 million are injured or disabled)
+    - 458 Overdose of Acetaminophen (Tylenol)
     - 171 terrorism (1995–2014)
 
 Of course this just focuses on deaths. Far more people are assaulted and

@@ -36,35 +36,49 @@ O'Reilly's slot and initially easily maintained his ratings. In fact Fox
 weathered most of the scandals just fine without a major loss in ratings, at
 least until very recently.
 
-While some may try to deny it on some level, people love spectacle. And whether
-or not you think that the bulk of the drama surrounding the Trump
-administration is a conspiracy by the left wing media cabal, completely true,
-or some intricate and nuanced mixture of the two, it is difficult to miss the
-fact that it's highly entertaining. Whether it's invented or not, Fox is
-missing the best political soap opera in recent memory—maybe even the best in
-all of American history.
+Humans enjoy spectacle. Whether or not you think that the bulk of the drama
+surrounding the Trump administration is a conspiracy by the left wing media
+cabal, completely true, or some intricate and nuanced mixture of the two, it's
+difficult to dispute that it's highly entertaining. Fox is missing the best
+political soap opera in recent memory—maybe even the best in all of American
+history.
 
-Currently Fox and it's evening comentary shows are running headlines that are
+Currently Fox and it's evening commentary shows are running headlines that are
 permutations of the following:
 
 - Why [insert latest scandal here] isn't a big deal
 - Leftist anti-free speech on college campus
 - Stories about cultural wars:
+
   - people saying bad things about Trump
   - paid protestors
-  - snowflake generation articles about millenials
+  - snowflake generation articles about millennials
   - ethnic/sexual/gender idenity
   - people faking hate-speech
 - Hillary/Killary scandals or shady dealings
 
-Obviously this is a bit of a strawman as it's not easy to do a deep statistical
-topical analysis. In any case though I think it's the source of Fox's recent
-problems. Some of those stories have been running on Fox in some form or
-another for years now. That gets boring no matter how good or accurate the
-actual stories are.
+While an over-generalization, some of those stories have been running on Fox in
+some form or another for years now. That gets boring no matter how good or
+accurate the actual stories are and therein is the problem for Fox. News is
+mostly about what's going wrong. No one wants to see the headline **"112,924
+Flights Landed Safely Today"** on the front page every day. It's not news
+because it's not spectacle.
 
-News is—by some definitions anyway—what's going wrong. No one wants to see the
-headline **"112,924 Flights Landed Safely Today"** on the front page every day.
-It's not news. By not joining in the media's feeding frenzy over the Trump
-administration, Fox is missing out on the fodder that is driving the ratings of
-their competition.
+The viewership of Fox under the Obama administration was driven by the sense of
+spectacle that their narrative pushed. Words like "war" came to be applied in
+more general ways. A **war** on Christianity. A **war** on Christmas. The
+culture **war**. The media on the left suggested that the stories Fox pushed
+simply did not exist; that they were strawmen built by the right wing to push
+a fightening but entertaining narrative.
+
+Now the tables have turned.
+
+By not joining in the media's feeding frenzy over the Trump administration, Fox
+is missing out on the fodder that is driving the ratings of their competition.
+Even IF the rest of the media or liberal politicians and pundits invented the
+current spectacle it's still real. Fox is trying to suggest that there is no
+story and if there is no story well... then there is nothing for people to tune
+in to. They'll flip the channel to the next station that's playing up the big
+scandal of the day and go back to vicariously enjoying it from their own safe
+and comfortable abode.
+
