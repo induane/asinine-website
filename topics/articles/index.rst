@@ -30,6 +30,7 @@ Satire
 .. toctree::
    :caption: Satire
 
+   satire/satire_3
    satire/satire_2
    satire/satire_1
 
