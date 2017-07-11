@@ -14,6 +14,7 @@ rmap = (
     (u'\u201c', '"'),
     (u'\u201d', '"'),
     (u'\u2019', "'"),
+    (u'\u2018', "'"),
     (u'\n', '\n\n'),  # Comment out for newline ready files
 )
 
