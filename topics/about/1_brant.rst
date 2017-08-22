@@ -29,3 +29,23 @@ aside and weep like a widow, to feel inspired, to fathom the power, to witness
 the beauty, to bathe in the fountain, to swing on the spiral of our divinity
 and still be a human."*
 — Maynard Keenan
+
+Articles
+--------
+
+.. toctree::
+   :caption: Articles
+
+   ../articles/editorial/article_1
+   ../articles/editorial/article_5
+   ../articles/editorial/article_6
+   ../articles/editorial/article_7
+   ../articles/editorial/article_9
+   ../articles/editorial/article_10
+   ../articles/editorial/article_11
+   ../articles/editorial/article_13
+   ../articles/editorial/article_16
+   ../articles/editorial/article_19
+   ../articles/tech/1_pretty_cli
+   ../articles/satire/satire_1
+   ../articles/satire/satire_2

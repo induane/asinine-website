@@ -99,6 +99,7 @@ html: build_reqs
 	@echo
 	@echo "Post build find/replace..."
 	- find _build/ -type f -print0 | xargs -0 sed -i 's/Search docs/Search/g'
+	- find _build/ -type f -print0 | xargs -0 sed -i 's/border="1"//g'
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 

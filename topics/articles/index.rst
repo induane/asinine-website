@@ -7,6 +7,10 @@ Editorial
 .. toctree::
    :caption: Articles
 
+   editorial/article_21
+   editorial/article_20
+   editorial/article_19
+   editorial/article_17
    editorial/article_16
    editorial/article_15
    editorial/article_14

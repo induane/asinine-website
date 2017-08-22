@@ -26,6 +26,9 @@
 /* Don't show the headerlink icon on a mouse hover */
 .headerlink {content: "" !important; display: none !important; }
 
+/* Don't show booter buttons */
+footer {display: none !important; }
+
 /* Hide breadcrumbs navigation links */
 div[aria-label="breadcrumbs navigation"] { display: none !important; }
 

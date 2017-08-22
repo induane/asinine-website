@@ -13,3 +13,16 @@ hipsters, yuppies, and feminists. Jesse prayed for Crom to take him but he soon
 realized that through battling these ingrates, he might learn the riddle of
 steel. He fights them with Neanderthalish ideas... and when that doesn’t
 work... an axe.
+
+Articles
+--------
+
+.. toctree::
+   :caption: Articles
+
+   ../articles/editorial/article_4
+   ../articles/editorial/article_12
+   ../articles/editorial/article_14
+   ../articles/editorial/article_17
+   ../articles/editorial/article_20
+   ../articles/satire/satire_3

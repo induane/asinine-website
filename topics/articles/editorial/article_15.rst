@@ -40,4 +40,3 @@ But my favorite answer is still, and will likely always be, 42.
 .. rubric:: Footnotes
 
 .. [#f1] It turns out that Socrates had a father named Sophroniscus. Source: `Wikipedia <https://en.wikipedia.org/wiki/Sophroniscus>`__
-
