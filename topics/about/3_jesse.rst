@@ -25,4 +25,5 @@ Articles
    ../articles/editorial/article_14
    ../articles/editorial/article_17
    ../articles/editorial/article_20
+   ../articles/editorial/article_24
    ../articles/satire/satire_3

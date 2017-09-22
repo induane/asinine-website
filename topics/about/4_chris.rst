@@ -17,5 +17,6 @@ Articles
    :caption: Articles
 
    ../articles/editorial/article_2
+   ../articles/editorial/article_8
    ../articles/editorial/article_15
    ../articles/editorial/article_21
