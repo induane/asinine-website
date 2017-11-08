@@ -62,7 +62,7 @@ meaning 'free from restraint,' leading to sense 1 of the adjective (late 18th
 century).
 
 
-.. _sexism
+.. _sexism:
 
 sexism
 ------

@@ -45,13 +45,14 @@ Examination
 It's unlikely that Damore is going to read this article [#f1]_ but in the
 interests of being open I have to admit that I find his memo somewhat
 disturbing. It's not disturbing so much because of the views it represents but
-rather the nature of it. The pieces in the article fit extremely well and the
+rather the nature of it. The pieces in the article fit together well and the
 whole thing is created with an air of both humility and knowledgeably that
 lends itself to being *extremely* persuasive. Reading along on my first trip
 through the memo I found myself thinking "This isn't so bad. It's really
-reasonable. All of this sounds well reasoned and rings of truth." I initially
-was somewhat surprised by all of the vitriol surrounding the memo and it wasn't
-until I'd had some time to digest it that doubt crept back in.
+reasonable. All of this sounds well reasoned and rings of truth. And he
+is honest enough to note he may be wrong or biased!" I initially was somewhat
+surprised by all of the vitriol surrounding the memo and it wasn't until I'd
+had some time to digest it that doubt crept back in.
 
 The first part that jumped out at me was the following :ref:`quotation <gog_gender_cause>`:
 
