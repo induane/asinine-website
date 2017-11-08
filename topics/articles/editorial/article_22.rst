@@ -16,15 +16,15 @@ his company. Instead of engaging him, the company throws him out with the trash
 (but at least they allow him to take the fish?). Queue 2017, where James Damore
 challenges the biases within his own company:
 
-*I value diversity and inclusion, am not denying that sexism exists, and
-don't endorse using stereotypes. When addressing the gap in representation
-in the population, we need to look at population level differences in
-distributions. If we can't have an honest discussion about this, then we
-can never truly solve the problem.* – Page 1
+  *I value diversity and inclusion, am not denying that sexism exists, and
+  don't endorse using stereotypes. When addressing the gap in representation
+  in the population, we need to look at population level differences in
+  distributions. If we can't have an honest discussion about this, then we
+  can never truly solve the problem.* – :ref:`Page 1 <gog_value_diversity>`
 
-This is the introduction to Damore's memo entitled, Google's Ideological Echo
-Chamber. It doesn't sound like the beginning of a right-wing, sexist rant that
-would get you fired and shamed by the ivory-tower media and their acolytes who
+This is the introduction to Damore's memo entitled, :ref:`Google's Ideological Echo Chamber <google_echo>`. It
+doesn't sound like the beginning of a right-wing, sexist rant that would get
+you fired and shamed by the ivory-tower media and their acolytes who
 regurgitate information without actually researching it themselves. The reason
 it doesn't sound like that type of bigoted memo is because it isn't. I've
 watched interviews with Damore since the firing and he doesn't seem like
@@ -32,10 +32,10 @@ someone with hate in his heart. I take him at his word... that he wanted an
 honest discussion. Can we still have those in America? I'm not smart enough to
 answer that question, so let's continue looking over the report.
 
-*Differences in distributions of traits between men and women may in part
-explain why we don't have 50% representation of women in tech and
-leadership. Discrimination to reach equal representation is unfair,
-divisive, and bad for business.* – Page 2
+  *Differences in distributions of traits between men and women may in part
+  explain why we don't have 50% representation of women in tech and
+  leadership. Discrimination to reach equal representation is unfair,
+  divisive, and bad for business.* – :ref:`Page 2 <google_echo_tldr>`
 
 What a fucking monster this guy is! He says male and female traits MAY IN PART
 explain the disparity between men and women in tech fields. Then he goes on to
@@ -44,67 +44,64 @@ So, this guy who has been portrayed as discriminating against women is saying
 his employer should not discriminate against anyone? Disgusting! Now, I must
 finish this memo to see if he's going to call for eugenics next.
 
-*This document is mostly written from the perspective of Google's Mountain
-View campus, I can't speak about other offices or countries.*
+  *This document is mostly written from the perspective of Google's Mountain
+  View campus, I can't speak about other offices or countries.*
 
-*Of course, I may be biased and only see evidence that supports my
-viewpoint. In terms of political biases, I consider myself a classical
-liberal and strongly value individualism and reason. I'd be very happy to
-discuss any of the document further and provide more citations.* – Page 2
-citations
+  *Of course, I may be biased and only see evidence that supports my
+  viewpoint. In terms of political biases, I consider myself a classical
+  liberal and strongly value individualism and reason. I'd be very happy to
+  discuss any of the document further and provide more citations.* – :ref:`Page 2 citations<gog_footnotes>`
 
 The citations on page 2 are the next part that caught my eye. Damore points out
 that he can only speak from experience and goes on to say that he may also be
 biased and ONLY SEE evidence that supports his viewpoint. In other words, he
 could be wrong and he knows it. What a psychopath!
 
-*Neither side is 100% correct and both viewpoints are necessary for a
-functioning society or, in this case, company. A company too far to the
-right may be slow to react, overly hierarchical, and untrusting of others.
-In contrast, a company too far to the left will constantly be changing
-(deprecating much loved services), over diversify its interests (ignoring
-or being ashamed of its core business), and overly trust its employees and
-competitors.*
+  *Neither side is 100% correct and both viewpoints are necessary for a
+  functioning society or, in this case, company. A company too far to the
+  right may be slow to react, overly hierarchical, and untrusting of others.
+  In contrast, a company too far to the left will constantly be changing
+  (deprecating much loved services), over diversify its interests (ignoring
+  or being ashamed of its core business), and overly trust its employees and
+  competitors.*
 
-*Only facts and reason can shed light on these biases, but when it comes to
-diversity and inclusion, Google's left bias has created a politically
-correct monoculture that maintains its hold by shaming dissenters into
-silence. This silence removes any checks against encroaching extremist and
-authoritarian policies. For the rest of this document, I'll concentrate on
-the extreme stance that all differences in outcome are due to differential
-treatment and the authoritarian element that's required to actually
-discriminate to create equal representation.* – Page 3
+  *Only facts and reason can shed light on these biases, but when it comes to
+  diversity and inclusion, Google's left bias has created a politically
+  correct monoculture that maintains its hold by shaming dissenters into
+  silence. This silence removes any checks against encroaching extremist and
+  authoritarian policies. For the rest of this document, I'll concentrate on
+  the extreme stance that all differences in outcome are due to differential
+  treatment and the authoritarian element that's required to actually
+  discriminate to create equal representation.* – :ref:`Page 3 <gog_neither_correct>`
 
 Being too far left or right can hurt your company by affecting how you run the
 business and stop you from making the best decisions for said business. Damore
-believes Google has moved too far left, shames dissenters, and wants to look at
-Google's policies that he believes are discriminatory? Fuck... and it took him
-two paragraphs to say all that?
+believes Google has moved too far left, shames dissenters, and he wants to look
+at Google's policies that he believes are discriminatory? Fuck … and it took
+him two paragraphs to say all that?
 
-*At Google, we're regularly told that implicit (unconscious) and explicit
-biases are holding women back in tech and leadership. Of course, men and
-women experience bias, tech, and the workplace differently and we should be
-cognizant of this, but it's far from the whole story.* – Page 3
+  *At Google, we're regularly told that implicit (unconscious) and explicit
+  biases are holding women back in tech and leadership. Of course, men and
+  women experience bias, tech, and the workplace differently and we should be
+  cognizant of this, but it's far from the whole story.* – :ref:`Page 3 <echo_non_bias_gap>`
 
 Damore admits that implicit bias and explicit biases do affect women and we
 should be understanding of that. This cisgendered man might as well have said
 women should be pregnant, barefoot, and in the kitchen! The rest of page 3 lays
 out that men and women are biologically different. Is this up for debate?
 
-The information on page 4 gets a little hairier. Damore compares the
-personalities of men and women, stating, "Women generally also have a stronger
-interest in people rather than things, relative to men". Okay, nothing
-upsetting here. What else? Women are more agreeable? I can't agree with this,
-mostly because I am not a woman. He goes on to link that to women being less
-likely to ask for a raise or negotiate salaries. I've read this in nearly every
-piece explaining the gender wage gap as a possible factor. It does not make it
-fact, but it does mean it isn't beyond the pale. And finally, women have higher
-anxiety. On social media, this really pissed some people off. Especially when I
-argued with them and posted information backing this claim up. I think the most
-important thing to do here is understand he means in general. As he stated
-before, he's not saying women cannot be in higher stress jobs. He is saying on
-average they are more prone to anxiety and it is his opinion that it MAY be
-another reason why women are underrepresented in the tech field.
+The information on :ref:`page 4 <echo_personality_diff>` gets a little hairier. Damore compares the personalities of men and
+women, stating, "Women generally also have a stronger interest in people rather than things,
+relative to men". Ok, nothing upsetting here. What else? Women are more agreeable? I can't
+agree with this, mostly because I am not a woman. He also makes mention that women are less
+likely to ask for a raise or negotiate salaries. I've read this in nearly every piece explaining the
+gender wage gap as a possible factor. It does not make it fact, but it does mean it isn't beyond the
+pale. And finally, women have higher anxiety. On social media, this really pissed some people
+off. Especially when I argued with them and posted information backing this claim up. I think
+the most important thing to do here is understand he means in general. As he stated before, he's
+not saying women cannot be in higher stress jobs. He is saying on average they are more prone
+to anxiety and it is his opinion that it MAY be another reason why women are underrepresented
+in the tech field.
 
 Page 5 is important. I want to post it in near entirety.
 
@@ -161,14 +158,14 @@ Page 6
 
     **The harm of Google's biases**
 
-*I strongly believe in gender and racial diversity, and I think we should
-strive for more. However, to achieve a more equal gender and race
-representation, Google has created several discriminatory practices:*
+  *I strongly believe in gender and racial diversity, and I think we should
+  strive for more. However, to achieve a more equal gender and race
+  representation, Google has created several discriminatory practices:*
 
 I ask you, do these look like the words of a racist or sexist? Clearly he wants
 more diversity. He's asked for it the entire time.
 
-Page 7, Damore casually mentions that women have lower IQ's without giving a
+:ref:`Page 7 <echo_why_blind>`, Damore casually mentions that women have lower IQ's without giving a
 source. This should have been explained at least to some degree. Many may not
 be familiar with the Variability Hypothesis. I likely won't do it justice, but
 it is a hypothesis that says men, because of evolution and maybe because we are
@@ -255,13 +252,11 @@ They can't discuss their ideas at the same round table.
 Damore said they had meetings solely about Black Lives Matter and the election
 and how upset everyone was about the outcome. In the interview, he went on to
 say many conservatives within the company did not feel comfortable discussing
-their views. And now we all see why. Damore didn't leak this memo. He said it
-circulated through Google for a month, where he got feedback, and others helped
-him perfect the piece.
+their views. Now we all see why.
 
-Google can do what they want. They can fire him because of the "outrage" he
-caused instead of employees engaging him in conversation. But make no mistake
-about it, he was denied the honest conversation that he desired, and was Jerry
-Maguired. And by a company who holds tremendous power over all of us. They
-control the information. They are the curators of your searches and what's
-"true". Maybe reality really does have a liberal bias.
+Ultimately, Google can do what they want. They can fire him because of the
+"outrage" he caused or for whatever reason they, as the employer, want. But
+make no mistake about it, he was denied the honest conversation that he
+desired, and was Jerry Maguired by a company who holds tremendous power over
+all of us. They control the information we see. They are the curators of your
+searches and what's "true". Maybe reality really does have a liberal bias.

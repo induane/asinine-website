@@ -10,7 +10,7 @@ from Google results.
 conservative
 ------------
 con·serv·a·tive
-kənˈsərvədiv/
+kənˈsərvədiv
 
 Adjective
 ^^^^^^^^^
@@ -37,7 +37,7 @@ conserve). Current senses date from the mid 19th century onward.
 liberal
 -------
 lib·er·al
-ˈlib(ə)rəl/
+ˈlib(ə)rəl
 
 Adjective
 ^^^^^^^^^
@@ -52,7 +52,6 @@ Noun
 - a person of liberal views.
 - a supporter or member of a Liberal Party.
 
-
 Origin
 ^^^^^^
 Middle English: via Old French from Latin *liberalis*, from *liber* 'free
@@ -61,3 +60,16 @@ gentleman' (one not tied to a trade), surviving in *liberal arts*. Another
 early sense, 'generous' (sense 4 of the adjective), gave rise to an obsolete
 meaning 'free from restraint,' leading to sense 1 of the adjective (late 18th
 century).
+
+
+.. _sexism
+
+sexism
+------
+sex·ism
+ˈsek-ˌsi-zəm
+
+Noun
+----
+- prejudice or discrimination based on sex; *especially*: discrimination against women
+- behavior, conditions, or attitudes that foster stereotypes of social roles based on sex

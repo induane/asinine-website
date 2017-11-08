@@ -20,10 +20,11 @@ Articles
 .. toctree::
    :caption: Articles
 
-   ../articles/editorial/article_4
-   ../articles/editorial/article_12
-   ../articles/editorial/article_14
-   ../articles/editorial/article_17
-   ../articles/editorial/article_20
    ../articles/editorial/article_24
+   ../articles/editorial/article_22
+   ../articles/editorial/article_20
+   ../articles/editorial/article_17
+   ../articles/editorial/article_14
+   ../articles/editorial/article_12
+   ../articles/editorial/article_4
    ../articles/satire/satire_3

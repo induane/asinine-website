@@ -19,6 +19,8 @@ Google's Ideological Echo Chamber
 Reply to public response and misrepresentation
 ----------------------------------------------
 
+.. _gog_value_diversity:
+
 I value diversity and inclusion, am not denying that sexism exists, and don't
 endorse using stereotypes. When addressing the gap in representation in the
 population, we need to look at population level differences in distributions.
@@ -55,6 +57,8 @@ TL;DR
 Background [#f1]_
 -----------------
 
+.. _gog_intentions:
+
 People generally have good intentions, but we all have biases which are
 invisible to us. Thankfully, open and honest discussion with those who disagree
 can highlight our blind spots and help us grow, which is why I wrote this
@@ -78,6 +82,8 @@ Change is good (unstable)           Change is dangerous (stable)
 Open                                Closed
 Idealist                            Pragmatic
 ==================================  ==================================
+
+.. _gog_neither_correct:
 
 Neither side is 100% correct and both viewpoints are necessary for a
 functioning society or, in this case, company. A company too far to the right
@@ -109,11 +115,17 @@ of this, but it's far from the whole story.
 On average, men and women biologically differ in many ways. These differences
 aren't just socially constructed because:
 
+.. _gog_gender_diff_list:
+
 - They're universal across human cultures
 - They often have clear biological causes and links to prenatal testosterone
-- Biological males that were castrated at birth and raised as females often still identify and act like males
+- Biological males that were castrated at birth and raised as females often
+  still identify and act like males
 - The underlying traits are highly heritable
-- They're exactly what we would predict from an evolutionary psychology perspective
+- They're exactly what we would predict from an evolutionary psychology
+  perspective
+
+.. _gog_gender_cause:
 
 Note, I'm not saying that all men differ from all women in the following ways
 or that these differences are "just." I'm simply stating that the distribution
@@ -156,6 +168,8 @@ Personality differences
   - This may contribute to the higher levels of anxiety women report on
     `Googlegeist <http://lmgtfy.com/?q=googlgeist>`__ and to the lower number
     of women in high stress jobs.
+
+.. _note_gaps_sexism:
 
 Note that contrary to what a social constructionist would argue, `​research
 suggests​ <http://www.bradley.edu/dotAsset/165918.pdf>`__ ​that "greater
@@ -284,21 +298,22 @@ and the gender wage gap​ [#f9]_​ . Google's left leaning makes us blind to t
 bias and uncritical of its results, which we're using to justify highly
 politicized programs.
 
-In addition to the Left's affinity for those it sees as weak, humans are generally biased towards
-protecting females. As mentioned before, this likely evolved because males are biologically
-disposable and because women are generally more cooperative and agreeable than men. We
-have extensive government and Google programs, fields of study, and legal and social norms to
-protect women, but when a man complains about a gender issue issue affecting men, he's
+In addition to the Left's affinity for those it sees as weak, humans are
+generally biased towards protecting females. As mentioned before, this likely
+evolved because males are biologically disposable and because women are
+generally more cooperative and agreeable than men. We have extensive government
+and Google programs, fields of study, and legal and social norms to protect
+women, but when a man complains about a gender issue issue affecting men, he's
 labelled as a `misogynist and a whiner​ <https://becauseits2015.wordpress.com/2016/08/06/a-non-feminist-faq/#addressing>`__ [#f10]_ . Nearly
 every difference between men and women is interpreted as a form of women's
 oppression. As with many things in life, gender differences are often a case of
 "grass being greener on the other side"; unfortunately, taxpayer and Google
 money is being spent to water only one side of the lawn.
 
-This same compassion for those seen as weak creates political
-correctness​ [#f11]_​ , which constrains discourse and is complacent to the
-extremely sensitive `PC-authoritarians​ <https://blogs.scientificamerican.com/beautiful-minds/the-personality-of-political-correctness/>`__ that
-use violence and to advance their cause. While Google hasn't harbored the
+This same compassion for those seen as weak creates political correctness​
+[#f11]_​ , which constrains discourse and is complacent to the extremely
+sensitive `PC-authoritarians​ <https://blogs.scientificamerican.com/beautiful-minds/the-personality-of-political-correctness/>`__
+that use violence and to advance their cause. While Google hasn't harbored the
 violent leftist protests that we're seeing at universities, the frequent
 shaming in TGIF and in our culture has created the same silent, psychologically
 unsafe environment.
@@ -419,6 +434,8 @@ My concrete suggestions are to:
     `accurate and responsive to new information <http://www.spsp.org/blog/stereotype-accuracy-response>`__
     than the training suggests (I'm not advocating for using stereotypes, I
     just pointing out the factual inaccuracy of what's said in the training).
+
+.. _gog_footnotes:
 
 .. rubric:: Footnotes
 

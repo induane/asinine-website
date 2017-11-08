@@ -1,10 +1,6 @@
 :tocdepth: 1
 
-
-
 .. _article_24:
-
-
 
 Trump and the Afghanistan War—OK, but...
 ========================================
