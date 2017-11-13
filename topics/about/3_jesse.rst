@@ -20,6 +20,7 @@ Articles
 .. toctree::
    :caption: Articles
 
+   ../articles/editorial/article_26
    ../articles/editorial/article_24
    ../articles/editorial/article_22
    ../articles/editorial/article_20
