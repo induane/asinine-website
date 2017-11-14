@@ -11,7 +11,9 @@ The Time for Blaming Men is Over
 
 
 (A response after reading, Training Men and Boys to Honor Women in the age of
-#MeToo) Men are rapists. Men abandon their children. Men beat women and treat
+#MeToo)
+
+Men are rapists. Men abandon their children. Men beat women and treat
 them as second class citizens. Men are violent, unpredictable, cheaters, and
 you don't need one. Have you heard this story? I've heard it far too often.
 This is all bullshit.
@@ -33,18 +35,19 @@ the same time, I ask that you show men the same courtesy.
 Society seems to portray men as having it all. We have the best jobs, make the
 most money, and are not held down by children. All 45 presidents have been men
 and we revere our founding fathers. I could go on. As some of this is true, men
-have their own equally as serious problems. Which story do you hear most often:
-Men abandon their children? Or, men lose a custody battle, are second class
-parents, and live in poverty to pay their child support? [#f3]_ I mean, why
-isn't 50/50 child custody the standard over joint custody? Joint custody
-separates men from their own children. Then, often, another man spends more
-time with their children than they do, and the new stand-in-father's income
-doesn't get factored in when calculating child support either. And ultimately,
-no one cares. I don't believe society gives a shit about these men. You're
-expendable. And don't you complain about it either, men, because you have
-everything else, supposedly. I'm sorry, I'm biased. I know that I'm biased.
-I've seen too many good men and fathers whose children were ripped away from
-them.
+have their own equally as serious problems.
+
+Which story do you hear most often: Men abandon their children? Or, men lose a
+custody battle, are second class parents, and live in poverty to pay their
+child support? [#f3]_ I mean, why isn't 50/50 child custody the standard over
+joint custody? Joint custody separates men from their own children. Then,
+often, another man spends more time with their children than they do, and the
+new stand-in-father's income doesn't get factored in when calculating child
+support either. And ultimately, no one cares. I don't believe society gives a
+shit about these men. You're expendable. And don't you complain about it
+either, men, because you have everything else, supposedly. I'm sorry, I'm
+biased. I know that I'm biased. I've seen too many good men and fathers whose
+children were ripped away from them.
 
 Maybe losing one's children attributes to the suicide rate? Men make up 75-80
 percent of the suicides in the United States (though women do attempt suicide
