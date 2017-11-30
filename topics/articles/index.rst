@@ -7,6 +7,7 @@ Editorial
 .. toctree::
    :caption: Articles
 
+   editorial/article_27
    editorial/article_26
    editorial/article_25
    editorial/article_24
@@ -39,6 +40,7 @@ Satire
 .. toctree::
    :caption: Satire
 
+   satire/satire_4
    satire/satire_3
    satire/satire_2
    satire/satire_1

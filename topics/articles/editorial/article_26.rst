@@ -18,8 +18,8 @@ them as second class citizens. Men are violent, unpredictable, cheaters, and
 you don't need one. Have you heard this story? I've heard it far too often.
 This is all bullshit.
 
-Let me start over. There are bad men who do many of these things. There are
-rapists and abusers and men who act like animals. They prey upon the most
+Let me start over. There are bad men who commit many of these atrocities. There
+are rapists and abusers and men who act like animals. They prey upon the most
 vulnerable members of society (women, children, and other men). The rest of us
 hate those men and want them punished to the full extent of the law. However,
 despite what much of the media tells you, those men are the exception and not
@@ -61,7 +61,7 @@ earlier than women (that and our stubbornness).
 
 This isn't meant to be a sob story. I am pointing out the obvious that both men
 and women have their own unique problems and neither should be easily
-dismissed. We also have our own privileges, which we can debate, but isn't the
+dismissed. We also have our own privileges, which we can debate, but aren't the
 focus of this piece.
 
 What am I getting at? Our society incentivizes single motherhood (I have
@@ -93,8 +93,7 @@ continued fight for equality and the creation of a safer environment for all
 vulnerable people, just as men need women and children need two parents. We all
 need to take responsibility for our own actions and not judge others based on
 the sins of their mothers or fathers, nor of their genders. When that movement
-starts, then I'll finally be able to say #MeToo.
-
+starts, then I'll finally be able to say `#MeToo <https://twitter.com/hashtag/metoo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Ehashtag>`__.
 
 .. rubric:: Footnotes
 
