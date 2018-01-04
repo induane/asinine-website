@@ -30,6 +30,7 @@ Articles
 .. toctree::
    :caption: Articles
 
+   ../articles/editorial/article_29
    ../articles/editorial/article_23
    ../articles/editorial/article_19
    ../articles/editorial/article_16
@@ -44,3 +45,4 @@ Articles
    ../articles/tech/1_pretty_cli
    ../articles/satire/satire_1
    ../articles/satire/satire_2
+   ../articles/satire/satire_4

@@ -54,9 +54,8 @@ dealings / obstruction of justice.) Do we really want to see the former first
 lady and senator in prison? (Mishandling classified information / Clinton
 Foundation possible pay to play.) I don't want this. I don't want to see them
 humiliated any more than they have been. It tarnishes their legacies and our
-government. We need to move on in this country, and their unwillingness to
-disappear is preventing that from happening along with those who despise them
-so terribly that their hate won't relent.
+government. Both their unwillingness to fade from the spotlight and the
+unrelenting hate from their opponents prevents the country from moving on.
 
 Their political careers should be over. Hillary is not going to be president
 and I don't believe she is a positive force in the Democratic Party. Bill has
