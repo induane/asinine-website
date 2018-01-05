@@ -60,10 +60,11 @@ state.
 
 Within this seemingly clinical conceptualization there is a flash of something
 emotional... hopeful. It also gives a framework which one can build upon for a
-set of ethics which is notoriously difficult to separate from relativism. It
-isn't necessarily objective but in an ocean of chaos with no naturally
-occurring sand-castles it is necessary to create states of order—foundations on
-which one may build. And that concept itself works well as a foundational one.
+set of ethics which is otherwise notoriously difficult to separate from
+relativism. It isn't necessarily objective, but in an ocean of chaos with no
+naturally occurring sand-castles it is necessary to create states of
+order—foundations on which one may build. And that concept itself works well as
+a foundation.
 
 We may not be able to fully know what we are doing or why we exist in this
 chaotic indifferent universe but this leaves us with the responsibility to
@@ -73,18 +74,19 @@ This means a bias towards optimism is more accurate because we *are* life.
 Angst for that which has been lost to time or history, fear of change or the
 unknown, a preference for any past over the present or future is the hallmark
 of the decay of entropy inside us. As we age and believe we become wiser, there
-are those who become tired. Cynical. Resistant to change. Prefer for that which
+are those who become tired. Cynical. Resistant to change. Prefer that which
 worked in the past. They complain about the state of things rather than
 building the future. They argue about the accuracy of their world views (I
 guess just like ole curmudgeon me is doing now).
 
 I implore you all to instead look forward. Learn from the past but do not cling
 to it. Don't assume that there are no solutions to obstacles you cannot see
-beyond. Avoid hubris. And above all, be a builder. Put your energy into
-producing more order. Find things that fill you with awe and wonder; these fuel
-optimism. Avoid the degenerate effects of those that bring you down and avoid
-the easy but narcissistic egotistical need to correct the world view of others.
+beyond. Avoid hubris. Don't spend time complaining. And above all, be a
+builder. Put your energy into producing more order. Find things that fill you
+with awe and wonder; these fuel optimism. Avoid the degenerate effects of those
+that bring you down and avoid the easy but narcissistic egotistical need to
+correct the world view of others.
 
 I genuinely believe the way to accept each moment, to love life, to experience
 the richness and diversity of experience which our fleeting existence has to
-offer, to really be alive, requires a bias towards hope.
+offer, to really be alive—requires a bias towards hope.
