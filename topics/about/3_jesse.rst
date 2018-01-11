@@ -14,8 +14,6 @@ realized that through battling these ingrates, he might learn the riddle of
 steel. He fights them with Neanderthalish ideas... and when that doesn’t
 work... an axe.
 
-Articles
---------
 
 .. toctree::
    :caption: 2018 Articles

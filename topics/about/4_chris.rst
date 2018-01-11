@@ -10,11 +10,9 @@ known by many as Chris, will not rest until justice has been served. From the
 Ivory Tower he brings truth and knowledge to the unwashed masses. His weapon is
 reality, his ammunition is logic, and his belt buckle is Zinc Alloy 3.
 
-Articles
---------
 
 .. toctree::
-   :caption: Articles
+   :caption: 2017 Articles
 
    ../articles/2017/editorial/article_2
    ../articles/2017/editorial/article_8

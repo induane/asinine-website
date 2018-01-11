@@ -24,8 +24,6 @@ they are different from everyone else."*
 scheme. It's just a question of how implicit it is."*
 — Douglas Hofstadter
 
-Articles
---------
 
 .. toctree::
    :caption: 2018 Articles
