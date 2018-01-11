@@ -11,6 +11,12 @@ Donald Trump to run for president. After their victory, Matt lives in the
 shadows, pulling strings, and silently waiting for the Winds of Winter.
 
 .. toctree::
+   :caption: 2018 Articles
+
+   ../articles/2018/lifestyle/lifestyle_1
+
+
+.. toctree::
    :caption: 2017 Articles
 
    ../articles/2017/editorial/article_3

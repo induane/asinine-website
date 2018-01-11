@@ -31,7 +31,7 @@ we are. Ask anybody.
    topics/about/4_chris
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Reference Material
 
    references/index
