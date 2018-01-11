@@ -28,21 +28,25 @@ Articles
 --------
 
 .. toctree::
-   :caption: Articles
+   :caption: 2018 Articles
 
-   ../articles/editorial/article_29
-   ../articles/editorial/article_23
-   ../articles/editorial/article_19
-   ../articles/editorial/article_16
-   ../articles/editorial/article_13
-   ../articles/editorial/article_11
-   ../articles/editorial/article_10
-   ../articles/editorial/article_9
-   ../articles/editorial/article_7
-   ../articles/editorial/article_6
-   ../articles/editorial/article_5
-   ../articles/editorial/article_1
-   ../articles/tech/1_pretty_cli
-   ../articles/satire/satire_1
-   ../articles/satire/satire_2
-   ../articles/satire/satire_4
+   ../articles/2018/editorial/article_29
+
+.. toctree::
+   :caption: 2017 Articles
+
+   ../articles/2017/editorial/article_23
+   ../articles/2017/editorial/article_19
+   ../articles/2017/editorial/article_16
+   ../articles/2017/editorial/article_13
+   ../articles/2017/editorial/article_11
+   ../articles/2017/editorial/article_10
+   ../articles/2017/editorial/article_9
+   ../articles/2017/editorial/article_7
+   ../articles/2017/editorial/article_6
+   ../articles/2017/editorial/article_5
+   ../articles/2017/editorial/article_1
+   ../articles/2017/tech/1_pretty_cli
+   ../articles/2017/satire/satire_1
+   ../articles/2017/satire/satire_2
+   ../articles/2017/satire/satire_4

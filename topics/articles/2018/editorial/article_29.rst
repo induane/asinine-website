@@ -12,7 +12,7 @@ Optimism & Melancholy
     *Life as a mathematical solution to Entropy*
 
 
-I spent a little time today on FaceBook. I don't do it often but I've been
+I spent a little time today on FaceBοоk. I don't do it often but I've been
 working or overworking a lot lately and the little hit of dopamine it gave me
 from feeling slightly less disconnected from the world was probably useful. It
 didn't take long to remember why I mostly avoid it though: I left feeling more

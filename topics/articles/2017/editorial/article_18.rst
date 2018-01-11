@@ -213,7 +213,7 @@ where perspectives identify things in different ways. This is it's own form of
 myopia. We often perceive each other as very different and consider those
 differences to be ways to categorize enemies.
 
-.. figure:: ../../../images/vinn.svg
+.. figure:: ../../../../images/vinn.svg
    :align: center
 
 I get why the rift exists. We wouldn't exist without it. It's necessary for

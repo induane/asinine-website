@@ -18,16 +18,20 @@ Articles
 --------
 
 .. toctree::
-   :caption: Articles
+   :caption: 2018 Articles
 
-   ../articles/editorial/article_28
-   ../articles/editorial/article_27
-   ../articles/editorial/article_26
-   ../articles/editorial/article_24
-   ../articles/editorial/article_22
-   ../articles/editorial/article_20
-   ../articles/editorial/article_17
-   ../articles/editorial/article_14
-   ../articles/editorial/article_12
-   ../articles/editorial/article_4
-   ../articles/satire/satire_3
+   ../articles/2018/editorial/article_28
+
+.. toctree::
+   :caption: 2017 Articles
+
+   ../articles/2017/editorial/article_27
+   ../articles/2017/editorial/article_26
+   ../articles/2017/editorial/article_24
+   ../articles/2017/editorial/article_22
+   ../articles/2017/editorial/article_20
+   ../articles/2017/editorial/article_17
+   ../articles/2017/editorial/article_14
+   ../articles/2017/editorial/article_12
+   ../articles/2017/editorial/article_4
+   ../articles/2017/satire/satire_3

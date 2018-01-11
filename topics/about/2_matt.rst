@@ -16,5 +16,5 @@ Articles
 .. toctree::
    :caption: Articles
 
-   ../articles/editorial/article_3
-   ../articles/editorial/article_25
+   ../articles/2017/editorial/article_3
+   ../articles/2017/editorial/article_25

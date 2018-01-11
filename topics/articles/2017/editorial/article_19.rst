@@ -14,7 +14,7 @@ I don't know what I want to create. I'm compelled to create.
 
 I made a picture:
 
-.. figure:: ../../../images/homemade.jpg
+.. figure:: ../../../../images/homemade.jpg
 
 I don't know what I want to say. I'm compelled to say something.
 

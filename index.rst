@@ -9,10 +9,11 @@ we are. Ask anybody.
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Main Site
+   :maxdepth: 1
+   :caption: Articles
 
-   topics/articles/index
+   topics/articles/2018/index
+   topics/articles/2017/index
 
 .. toctree::
    :maxdepth: 2
@@ -42,4 +43,3 @@ Bitcoin lying around, here is our deposit address:
 .. figure:: images/pub_key.png
 
       16Mfp5hjBmro5p4Kg6z4XqvVmrWbzq17px
-

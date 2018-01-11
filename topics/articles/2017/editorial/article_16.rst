@@ -11,7 +11,7 @@ Fox is Boring
     by :ref:`brant`
 
 
-.. figure:: ../../../images/disaster_voyeurism.jpg
+.. figure:: ../../../../images/disaster_voyeurism.jpg
 
         Hurricane forums are full of excited comments about central pressure
         and wind speed and comparisons to Camille and 1931 and 1938, with
@@ -81,4 +81,3 @@ story and if there is no story well... then there is nothing for people to tune
 in to. They'll flip the channel to the next station that's playing up the big
 scandal of the day and go back to vicariously enjoying it from their own safe
 and comfortable abode.
-

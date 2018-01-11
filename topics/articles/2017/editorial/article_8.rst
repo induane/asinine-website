@@ -67,7 +67,7 @@ celebration of freedom and democracy.
 
 .. _divmap:
 
-.. figure:: ../../../images/nation_divide.jpg
+.. figure:: ../../../../images/nation_divide.jpg
 
         The real political map of America: We are not that divided.
         Source: `Gizmoto

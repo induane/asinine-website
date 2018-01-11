@@ -16,7 +16,7 @@ would now be a retired writer.
 But I can't go back in time so ya'll are going to have to bail me out.
 
 
-.. figure:: ../../../images/bitcoin_meme.png
+.. figure:: ../../../../images/bitcoin_meme.png
 
         16Mfp5hjBmro5p4Kg6z4XqvVmrWbzq17px It's not going to work is it? :(
 
