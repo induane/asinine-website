@@ -52,3 +52,9 @@ h1 { text-align: center !important; }
 .toctree-l1 {list-style: none inside !important; list-style-type: none !important;}
 .toctree-l2 {list-style: none inside !important; list-style-type: none !important;}
 .toctree-l3 {list-style: none inside !important; list-style-type: none !important;}
+
+body {
+  -moz-osx-font-smoothing: grayscale !important;
+   -webkit-font-smoothing: antialiased !important;
+           font-smoothing: antialiased !important;
+}

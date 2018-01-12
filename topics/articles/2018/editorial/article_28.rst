@@ -10,6 +10,7 @@ The Fickle and Depressing World of Online Dating
     | by :ref:`jesse`
     |
     | *"Welcome to the world of online dating*
+    |
     | *Such a lovely place*
     | *Such a lovely face*
     |

@@ -1,6 +1,6 @@
 :tocdepth: 1
 
-.. _immigration_hawk:
+.. _article_10:
 
 Immigration Hawks
 =================
