@@ -11,3 +11,8 @@
    :caption: Lifestyle
 
    lifestyle/lifestyle_1
+
+.. toctree::
+   :caption: Satire
+
+   satire/satire_5
