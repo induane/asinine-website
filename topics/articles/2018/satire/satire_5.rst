@@ -10,8 +10,9 @@
     by :ref:`jesse`
 
 In a stunning development, the Southern Poverty Law Center (SPLC) declared
-"Basic Bitches" a terrorist organization. We reached out to a prominent "Basic
-Bitch", Monica Scarlett, for comment.
+"Basic Bitches" a terrorist organization. We reached out to a prominent “Basic
+Bitch”, Monica Scarlett, for comment. After going on a rant about toxic
+masculinity, she made us sign an affirmed consent form to get her statement.
 
 **What do you think of the Southern Poverty Law Center's declaration?**
 

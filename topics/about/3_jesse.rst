@@ -11,13 +11,14 @@ journeyed to America because he heard a call for (culture) warriors. Instead of
 finding other battle hardened barbarians like himself, he found a society of
 hipsters, yuppies, and feminists. Jesse prayed for Crom to take him but he soon
 realized that through battling these ingrates, he might learn the riddle of
-steel. He fights them with Neanderthalish ideas... and when that doesn’t
+steel. He fights them with Neanderthalish ideas... and when that doesn't
 work... an axe.
 
 
 .. toctree::
    :caption: 2018 Articles
 
+   ../articles/2018/satire/satire_5
    ../articles/2018/editorial/article_28
 
 .. toctree::

@@ -10,6 +10,7 @@
 .. toctree::
    :caption: Lifestyle
 
+   lifestyle/lifestyle_2
    lifestyle/lifestyle_1
 
 .. toctree::
