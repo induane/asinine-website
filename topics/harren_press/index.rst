@@ -57,6 +57,7 @@ will follow.
 
 `buy on amazon <https://smile.amazon.com/Cloud-Caller-Roy-C-Booth-ebook/dp/B0725CHQ5L/>`__
 
+.. _thebonesword:
 
 The Bone Sword
 --------------

@@ -29,6 +29,7 @@ we are. Ask anybody.
    topics/about/2_matt
    topics/about/3_jesse
    topics/about/4_chris
+   topics/about/5_contrib
 
 .. toctree::
    :maxdepth: 1
