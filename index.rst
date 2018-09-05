@@ -7,6 +7,11 @@ Four friends from the middle of the good ol' US of A.
 Yes, we are friends. Trust us. We are the best friends. Nobody is friends like
 we are. Ask anybody.
 
+.. admonition:: Latest Article
+   :class: note
+
+   September 5th, 2018: :ref:`Trump Reacts to Nike Ad Controversy by Christopher Powell <satire_6>`
+
 
 .. toctree::
    :maxdepth: 1

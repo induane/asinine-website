@@ -57,7 +57,7 @@ How many people would it affect positively?
 Well, the money you take from the rich and give to the poor (like both Jesus
 and Robin Hood advocated by the way) would do a lot of good. Also, the people
 left with "only" 100 million wouldn't be able to continue their human slave
-trade operations, or be able to bribe our politicians, so it's a win- win.
+trade operations, or be able to bribe our politicians, so it's a win-win.
 
 Here's something I don't get. People always say, "prayer should be allowed in
 schools" as if that is going to radically fix the whole world, but when you
