@@ -19,7 +19,6 @@ Democrats immediately pounced on the remarks, claiming that the President's
 comments were insensitive and indicated he had little respect for American
 troops who died in combat.
 
-
 Even some Republicans joined in criticizing the President, including the
 administration's own Secretary of Energy, Rick Perry, "Pat Tillman is an
 American hero and all troops killed in action deserve our nation's highest debt

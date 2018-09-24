@@ -13,6 +13,7 @@ shadows, pulling strings, and silently waiting for the Winds of Winter.
 .. toctree::
    :caption: 2018 Articles
 
+   ../articles/2018/satire/satire_7
    ../articles/2018/lifestyle/lifestyle_2
    ../articles/2018/lifestyle/lifestyle_1
 

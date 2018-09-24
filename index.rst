@@ -10,8 +10,7 @@ we are. Ask anybody.
 .. admonition:: Latest Article
    :class: note
 
-   September 5th, 2018: :ref:`Trump Reacts to Nike Ad Controversy by Christopher Powell <satire_6>`
-
+   September 24th, 2018: :ref:`Bret Kavanaugh is an Obliviator! by Matt Scarlett <satire_7>`
 
 .. toctree::
    :maxdepth: 1
