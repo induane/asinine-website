@@ -10,7 +10,7 @@ we are. Ask anybody.
 .. admonition:: Latest Article
    :class: note
 
-   September 24th, 2018: :ref:`Bret Kavanaugh is an Obliviator! by Matt Scarlett <satire_7>`
+   October 18th, 2018: :ref:`Don't Divorce Your Wife by Chris Powell <satire_8>`
 
 .. toctree::
    :maxdepth: 1

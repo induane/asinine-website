@@ -18,6 +18,7 @@
 .. toctree::
    :caption: Satire
 
+   satire/satire_8
    satire/satire_7
    satire/satire_6
    satire/satire_5

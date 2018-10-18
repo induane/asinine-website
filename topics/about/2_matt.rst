@@ -21,5 +21,5 @@ shadows, pulling strings, and silently waiting for the Winds of Winter.
 .. toctree::
    :caption: 2017 Articles
 
-   ../articles/2017/editorial/article_3
    ../articles/2017/editorial/article_25
+   ../articles/2017/editorial/article_3
