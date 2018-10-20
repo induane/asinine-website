@@ -10,7 +10,7 @@ we are. Ask anybody.
 .. admonition:: Latest Article
    :class: note
 
-   October 18th, 2018: :ref:`Don't Leave Your Girlfriend by Chris Powell <satire_8>`
+   October 18th, 2018: :ref:`Everybody Dies Alone <article_32>`
 
 .. toctree::
    :maxdepth: 1
