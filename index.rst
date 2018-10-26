@@ -10,7 +10,7 @@ we are. Ask anybody.
 .. admonition:: Latest Article
    :class: note
 
-   October 18th, 2018: :ref:`Everybody Dies Alone <article_32>`
+   October 25th, 2018: :ref:`River of Consciousness <other_01>`
 
 .. toctree::
    :maxdepth: 1
