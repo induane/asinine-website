@@ -7,8 +7,9 @@ Perception of Intention
 
 .. container:: center
 
-    2019-04-02
     by :ref:`jbaumgartner`
+
+    2019-04-02
 
 Language is key in verbal communication. It is what connects us through vocal
 and written expression. How we say what we say and when we say it always

@@ -7,8 +7,9 @@ The Mueller Report: No More Indictments—Reaction
 
 .. container:: center
 
-    2019-04-02
     by :ref:`jesse`
+
+    2019-04-02
 
 The Mueller investigation is finally finished with no recommendation for more
 indictments. Yes, we should be careful with gleaning too much from that fact...
