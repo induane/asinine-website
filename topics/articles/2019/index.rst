@@ -4,8 +4,8 @@
 .. toctree::
    :caption: Editorial
 
+   editorial/article_33
    editorial/article_32
-
 
 .. toctree::
    :caption: Satire
