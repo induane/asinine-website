@@ -37,7 +37,7 @@ babies. She is also the author of, `The Golden Rule <https://www.amazon.com/dp/B
 and more. Her writing has won 3 Bards and Sages Awards, 2 New Apple Awards, 2
 Missouri Writer's Guild Awards, and a Summer Indie Book Award. She is a current
 member of the Missouri Writer's Guild, SCBWI, and works mostly with children's
-stories, non-fiction, and a little spec fic. As a dyslexic Wiccan, Jess loves
+stories, non-fiction, and a little specfic. As a dyslexic Wiccan, Jess loves
 all types of people but sometimes writes about Pagan issues and the fun of a
 brain that works differently.
 
