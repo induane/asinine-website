@@ -79,7 +79,7 @@ in it keep going we can keep it all at bay if we work together. Let's get our
 shit together. Make it fight. You fight me. I'll fight you. We're different and
 that has to be resolved. Has to fit into an order. There's a natural order and
 if we fight it out it'll automatically get sorted and things will be in their
-place again. Nothing abstract here. Facts. Solid facts. This is all really and
+place again. Nothing abstract here. Facts. Solid facts. This is all real and
 so important that I feel like I should be spending most of my waking life
 swimming in it. It's not a distraction how dare you. It's just how I recharge
 or blow off steam or keep the world from descending into chaos. Ignore the pain

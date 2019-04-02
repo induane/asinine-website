@@ -24,3 +24,24 @@ at: WalterRhein@gmail.com.
    :caption: 2018 Articles
 
    ../articles/2018/editorial/article_30
+
+
+.. _jbaumgartner:
+
+Jessica Marie Baumgartner
+-------------------------
+
+Jessica's motto is: Adventure first, then write! When not running around
+exploring nature, she chases after multiple versions of herself and feeds furry
+babies. She is also the author of, `The Golden Rule <https://www.amazon.com/dp/B072C2V6SP/>`__ , `My Family Is Different <https://www.amazon.com/dp/B01G6EBHUA/>`__,"
+and more. Her writing has won 3 Bards and Sages Awards, 2 New Apple Awards, 2
+Missouri Writer's Guild Awards, and a Summer Indie Book Award. She is a current
+member of the Missouri Writer's Guild, SCBWI, and works mostly with children's
+stories, non-fiction, and a little spec fic. As a dyslexic Wiccan, Jess loves
+all types of people but sometimes writes about Pagan issues and the fun of a
+brain that works differently.
+
+.. toctree::
+   :caption: 2019 Articles
+
+   ../articles/2019/editorial/article_32

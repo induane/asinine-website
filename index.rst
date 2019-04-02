@@ -10,12 +10,13 @@ we are. Ask anybody.
 .. admonition:: Latest Article
    :class: note
 
-   October 25th, 2018: :ref:`River of Consciousness <other_01>`
+   April 4th, 2019: :ref:`Perception of Intention <article_32>`
 
 .. toctree::
    :maxdepth: 1
    :caption: Articles
 
+   topics/articles/2019/index
    topics/articles/2018/index
    topics/articles/2017/index
 
