@@ -7,7 +7,7 @@ The Shrimp Manifesto
 
 .. container:: center
 
-    by Zach
+    by Zach Conley
 
     "You must hate the shrimp, you must fear the shrimp. To kill shrimps, you
     have to become the shrimps."
@@ -31,12 +31,12 @@ supreme over all other things. I hope after reading this document you will join
 me in my quest to show those little bastards just how wrong they are.
 
 In addition to the mere nature of shrimp's existence the emotional state of
-shrimp should absolutely terrify you. Shrimp are possible the most smug animals
+shrimp should absolutely terrify you. Shrimp are possibly the most smug animals
 in our great natural world. They are volatile beyond belief and incredibly
 sensitive. You don't want to look at a shrimp the wrong way, they can snap at
 any moment and descend into a fit of rage. With the emotional maturity of a 3
 year old child these temper tantrums can last for weeks and even days. There is
-no talking down a shrimp when they're up on their bullshit. Any attempts to
+no talking down a shrimp when they're up to their bullshit. Any attempts to
 calm a shrimp down will only enrage the beast further. These violent outbursts
 put everyone in the shrimp's vicinity in mortal peril.
 
@@ -69,16 +69,16 @@ political infiltration plot.
 Behind every major historical event there is only one reason for its
 occurrence, the will of the shrimps. If you thought the world was run by humans
 then I'm sad to inform you that you're terribly mistaken. The world is run by a
-truly sinister group, the puppet masters that make the world turn, the shrimp
-cabal. With a hand in nearly all tyrannical empires the widespread power of
-shrimps cannot be under estimated. Hitler, Stalin, Mao, Mussolini, all of them
+truly sinister group, the puppet masters that make the world turn, the Shrimp
+Cabal. With a hand in nearly all tyrannical empires the widespread power of
+shrimps cannot be underestimated. Hitler, Stalin, Mao, Mussolini, all of them
 were simply figureheads in service to the whims of the secret hand of shrimps.
 Over time their power and influence has only grown.
 
 These invisible shrimp emperors oversee all inner workings of this world they
 have only been able to operate so efficiently and secretly because of their
-access to alien technology. When the earth was young, long before the time of
-man shrimps reigned supreme. It was during this time that extraterrestrial
+access to alien technology. When the earth was young—long before the time of
+man—shrimps reigned supreme. It was during this time that extraterrestrial
 beings came to earth and made contact with its rulers. Although shrimps are
 violent and unpredictable their capacity for diplomacy is unrivaled. Shrimps
 quickly became close allies with these alien beings, allowing access to all of

@@ -65,15 +65,16 @@ But it wasn't only our "17" intelligence agencies that pushed the false Trump
 Russia collusion conspiracy. Nancy Pelosi, Chuck Schumer, Adam Schiff, Eric
 Swalwell, Maxine Waters, and so many others said or intimated Trump conspired
 with the Russians, colluded with the Russians, and/or should be impeached for
-said collusion. And finally, we come to the media. From Rachel Maddow to Don
-Lemon, Chris Matthews to Cenk Uygur... these "journalists" spread the
-conspiracy every night. Mainstream media beat the gong of Russian
-collusion/conspiracy and speculated who was going to be indicted next. What
-will they say now that the well on indictments has run dry? Don't worry, they
-will spin their coverage and seize on a line here or there in the final report
-and they will never apologize for making a business decision (being anti
-Trump). Buzzfeed, and nearly every left leaning paper/news site should also be
-listed here.
+said collusion.
+
+And finally, we come to the media. From Rachel Maddow to Don Lemon, Chris
+Matthews to Cenk Uygur... these "journalists" spread the conspiracy every
+night. Mainstream media beat the gong of Russian collusion/conspiracy and
+speculated who was going to be indicted next. What will they say now that the
+well on indictments has run dry? Don't worry, they will spin their coverage and
+seize on a line here or there in the final report and they will never apologize
+for making a business decision (being anti Trump). Buzzfeed, and nearly every
+left leaning paper/news site should also be listed here.
 
 These people and groups all lied to me and you, the American people. They
 helped poison the water and stirred the pot while we fought it out on social
