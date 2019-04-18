@@ -4,8 +4,14 @@
 .. toctree::
    :caption: Editorial
 
+   editorial/article_34
    editorial/article_33
    editorial/article_32
+
+.. toctree::
+   :caption: Review
+
+   review/review_01.rst
 
 .. toctree::
    :caption: Satire
