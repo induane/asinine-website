@@ -11,9 +11,19 @@
   background-color: #450001 !important;
   background: #450001 !important;
 }
-.wy-side-nav-search input[type=text] {
-  border-color: #f5c614 !important;
+.wy-side-nav-search {
+  font-size: 18px;
 }
+.wy-side-nav-search input[type=text] {
+  border: 1px solid #F5C614 !important;
+  font-size: 14px;
+  border-radius: 2px !important;
+}
+
+.wy-side-nav-search input[type=text]:focus {
+  box-shadow: rgba(245, 198, 20, 0.9) 0 0 5px inset !important;
+}
+
 .wy-nav-side { background: #333333 !important; }
 /*a.reference:visited{color: #450001;}*/
 
@@ -57,4 +67,8 @@ body {
   -moz-osx-font-smoothing: grayscale !important;
    -webkit-font-smoothing: antialiased !important;
            font-smoothing: antialiased !important;
+}
+
+.wy-menu .caption-text {
+  color: #F5C614 !important;
 }
