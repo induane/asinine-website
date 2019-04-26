@@ -9,11 +9,16 @@
    editorial/article_32
 
 .. toctree::
-   :caption: Review
+   :caption: Asinine Recommends
 
-   review/review_01.rst
+   recommendations/recommend_01.rst
 
 .. toctree::
    :caption: Satire
 
    satire/satire_9
+
+.. toctree::
+   :caption: Ongoing Series
+
+   series/series_01
