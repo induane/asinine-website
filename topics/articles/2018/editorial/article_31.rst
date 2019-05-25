@@ -76,13 +76,13 @@ architects, the apartments became expressions of the tenants. In this case the
 equality of outcome was abandoned and the equality of opportunity was pushed.
 The result was diversity—humanity in all it's varied forms. The area is now an
 extremely diverse multi-ethnic region that is wholly different from the
-original vision. Ultimately it's a more human vision.
+original vision. It is... more human.
 
 These buildings happened to produce a situation where creating opportunistic
 equality was relatively easy. In the broader world, not everything is quite so
 cut and dry. A person living in a rural community will necessarily have a very
 different starting point than a person living in a city center. Their
-experiences are different and so the opportunities differ and that's okay.
+experiences are unique and so the opportunities differ and that's okay.
 Attempts to enforce specific outcomes runs into the same issues that the city
 planners do. People are wonderfully diverse and trying to enforce a preordained
 plan that matches a small groups vision of how things ought to be is
@@ -90,13 +90,13 @@ antithetical to diversity.
 
 This doesn't mean that it's a bad goal to push for equality of opportunity or
 diversity. Let's take racial quotas for higher education as an example. They
-help alter the course of historic inertia and have value in terms of smoothing
-over some of the rougher edges of capitalism. You can't make 100% of all
-opportunities perfectly equal but you can look around at the places where
-problems are more obvious and work on those. The next question that arises then
-is how to judge the value of any particular intervention. How do you know they
-are "working"? One of the main ways that people try to decide if they are
-working is by judging it based on outcome.
+help alter the course of historic inertia. This helps take some sandpaper to
+rougher edges of capitalism. You can't make 100% of all opportunities perfectly
+equal but you can look around at the places where problems are more obvious and
+work on those. The next question that arises then is how to judge the value of
+any particular intervention. How do you know they are "working"? One of the
+main ways that people try to decide if they are working is by judging it based
+on outcome.
 
 The problem with judging based entirely on outcome is that even with quotas,
 the opportunities weren't identical.
@@ -136,11 +136,9 @@ democracies in Europe (particularly Scandinavian countries like Norway,
 Finland, and Sweden) and the USA definitely don't buy that concept at all. Yet,
 paradoxically it doesn't result in the outcomes you might expect. The Nordic
 countries often have gender quotas, more access to education, more equal
-opportunity than in the USA . Despite this, the USA (and even those more
+opportunity than in the USA. Despite this, the USA (and even those more
 conservative countries I mentioned earlier from those surveys) often have more
-women in higher positions than the Nordic countries. The quotas didn't really
-work out as a gauge for whether the investment in equalizing opportunity worked
-out.
+women in higher positions than the Nordic countries.
 
 The problem isn't the attempt to provide more equal opportunity but rather the
 attempt to measure that success by means of measuring outcome. Outcome is only
@@ -152,22 +150,20 @@ opportunity but we really need to take a second to think about what our goals
 as a society actually **are**. Do we want to enforce gender or ethnic or racial
 parity? Is that the actual goal? Or is the goal to make people feel like they
 have the ability to manifest more control over their destiny? If it's the
-latter then using outcome as the measuring stick is a bad idea and only muddies
-the whole debate. Another issue is that certain factors influence everything at
-a social level through complex feedback loops. If as a child you only see
-people who fit a certain profile (race, ethnicity, whatever... ) in certain
-roles, then you're going to make associations between those roles and those
-profiles. That in turn is going to affect how you perceive yourself. So if you
-have no women visible in technology then you're probably not going to have the
-thought cross the mind of a young girl "I'm going to be a technology worker"
-because they simply don't see it. On the other hand if you let people sort
-themselves without any attempts at intervention (beyond normal market forces)
-then statistical differences will sometimes emerge and those will have a
-rebound effect on what people decide they want to do with their own futures.
-
-That's a long way of saying that what people choose now (if given the
-opportunity TO choose) will have some effect on what people choose in the
-future.
+latter then using outcome as the only measuring stick potentially muddies the
+debate rather than clarifying it. Another issue is that certain factors
+influence everything at a social level through complex feedback loops. If as a
+child you only see people who fit a certain profile (race, ethnicity,
+whatever... ) in certain roles, then you're going to make associations between
+those roles and those profiles. That in turn is going to affect how you
+perceive yourself. So if you have no women visible in technology then you're
+less likely to have "I'm going to be a technology worker" enter the mind of a
+young girl because they simply don't see it. If you let people sort themselves
+without any attempts at intervention (beyond normal market forces) then
+statistical differences will emerge and those will have a rebound effect on
+what people decide they want to do with their own futures. What people choose
+now (if given the opportunity TO choose) will have some effect on what people
+choose in the future.
 
 The whole thing should be based not around the idea of the outcome but around
 the idea of enabling diversity of thought so that people have more internal
@@ -191,19 +187,17 @@ of your family, but also internally by the things you seriously consider
 yourself capable of.
 
 This is why we should strive to have more diversity in the workplace and public
-office via programs while acknowledging that it will always be incomplete and
-imperfect. It gives people an opportunity to tangibly see things as feasible
-within their own mind and expands their landscape of opportunities. This
-doesn't make the judgment that a person **should** choose a particular one but
-rather opens more doors so that they have more choices. As long as we're not
-interfering in a way that tries to enforce a particular role on someone (when I
-say we here I mean the organizational units of society like governmental
-bodies) then *encouraging* is still valuable. If we shift away from measuring
-success based purely on specific outcomes then there is less pressure to try to
-force diversity in the first place.
+office, while acknowledging that it will always be incomplete and imperfect. It
+gives people an opportunity to tangibly see things as feasible within their own
+mind and expands their landscape of opportunities. This doesn't make the
+judgment that a person **should** choose a particular one but rather opens more
+doors so that they have more choices. As long as we're not interfering in a way
+that tries to enforce a particular role on someone (when I say we here I mean
+the organizational units of society like governmental bodies) then
+*encouraging* is still valuable.
 
 We *shouldn't* strive for perfect equity because that limits free choice and is
 only feasible through problematic enforcement processes. We *should* encourage
 diversity because it makes people more free by opening them up to a broader
-more diverse world where they can more readily discover who and what they can
+more diverse world where they can more readily discover who and what they may
 become.

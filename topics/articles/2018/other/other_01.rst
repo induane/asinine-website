@@ -11,6 +11,15 @@ River of Consciousness
     by :ref:`brant`
 
 
+.. note:: After this article ran I it was referenced a few times under the
+    mistaken assumption that the river here is my own. While there are a few
+    elements—mostly existential in nature—that have a basis in my own thoughts
+    and feelings, the bulk of it is a work of fiction. I tried to put myself
+    into the minds of people to see if there were more compassionate reasons
+    for what appeared to me to be problematic behavior. It's an amalgam of
+    things based on my own interpretations and intuitions of [mostly]others.
+
+
 You shake yourself. Death. Not existing. A momentary piece of you grasps the
 paradox of it and shakes you to the core. Desperate you hide from the idea and
 distract yourself. You talk to someone, read, turn on the TV, open your phone,
@@ -90,22 +99,22 @@ else well - they're the ones who are biased and affected. What is your intent?
 
 Intent?
 
-Can anything besides me have intent? Is selfness special? Or am I all? Am
-I secretly afraid I am all and thus ultimately important but ultimately alone
-or am I secretly afraid I'm nothing and not special? Why do I need to be
-special? Is special a part of existence or is it just a feeling? An opinion?
-Whose opinion? Mine? Narcissist. Coward. Why am I never doing the things I say
-I should be doing? Why am I not studious. Why are other accomplishments more
-than my own. What happens if I did reach my goals? That's the problem. Nothing
+Can anything besides me have intent? Is selfness special? Or am I all? Am I
+secretly afraid I am all and thus ultimately important but ultimately alone or
+am I secretly afraid I'm nothing and not special? Why do I need to be special?
+Is special a part of existence or is it just a feeling? An opinion? Whose
+opinion? Mine? Narcissist. Coward. Why am I never doing the things I say I
+should be doing? Why am I not studious. Why are other accomplishments more than
+my own. What happens if I did reach my goals? That's the problem. Nothing
 happens. Eventually it's all gone, all dead, no more. Built a civilization?
 Smashed to ash by the staggeringly large universe. Sun is burned. Universe has
 reached maximum entropy. All is gone. It's ALL going into the void, just at
 different rates. Some things last longer but none last forever. Why do I even
-care about legacy. Maybe I do and don't? How can I hold a contradiction? Maybe
+care about legacy? Maybe I do and don't? How can I hold a contradiction? Maybe
 I have to try not to think about how nothing matters so that I have a reason to
-do things but that doesn't work for really big herculean efforts... maybe I am
-a coward. Why don't we face it? IS there a we? Global we? Individual we? Why am
-I like this? Everyone else must not be. It must just be me.
+do things but that doesn't work for herculean efforts... maybe I am a coward.
+Why don't we face it? IS there a we? Global we? Individual we? Why am I like
+this? Everyone else must not be. It must just be me.
 
 You shake yourself. Death. Not existing. A momentary piece of you grasps the
 paradox of it and shakes you to the core. Desperate you hide from the idea and

@@ -27,6 +27,7 @@ scheme. It's just a question of how implicit it is."*
 .. toctree::
    :caption: 2019 Articles
 
+   ../articles/2019/recommendations/recommend_01
    ../articles/2019/editorial/article_34
 
 .. toctree::
