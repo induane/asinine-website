@@ -118,7 +118,7 @@ value ``0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a33`` is the hash associated with
 the user ``jane`` then they would know that Jane's password is ``foo``. This is
 bad and means that with a lot of effort someone could—in theory—reverse the hash
 just pre-computing tons of potential values. It will still be hard if the users
-have chosen good passwords, but it is within the realm of possible.
+have chosen good passwords, but it is within the realm of possibility.
 
 That is why password systems also use a tool called "salting". Salt comes in
 various flavors but the general idea is this. Append a value to every password
