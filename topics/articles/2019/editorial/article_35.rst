@@ -74,11 +74,11 @@ information necessary to check a password is stored. Surprisingly though,
 authentication systems don't actually store your passwords anywhere; they store
 the *hash*.
 
-This normally comes in the form of a mapping between a userename and a password
+This normally comes in the form of a mapping between a username and a password
 hash value:
 
 ============  ============================================
-  Username                                          Output
+  Username                                            Hash
 ============  ============================================
 jane          ``0beec7b5ea3f0fdbc95d0dd47f3c5bc275da8a33``
 chris         ``5f13610453fd0dabebe3d680e0b2990619bf138c``
