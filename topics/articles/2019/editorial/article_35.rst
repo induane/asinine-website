@@ -169,10 +169,10 @@ compute the hash of ``6c0ef9d96864de01773a116c83acc9af7bf8c4e1``\ ? You
 get: ``d143f739ab54cd5fb40b08695ef44c659882914e``. What if you calculate the
 hash of that? You get: ``f5454aa7490de7d10c488d73c7f13926e6916f5e``. And so on.
 
-The last ingredient here is to keep taking the resulting hash and feeding it
-back into the hash function, *n* number of times. By selecting a high but
-random number for your system, you end up with hash values that are extremely
-unique. Maybe you select 2199. That means you'll keep hashing the result of the
+The key ingredient is to keep taking the resulting hash and feeding it back into
+the hash function, *n* number of times. By selecting a high but random number
+for your system, you end up with hash values that are extremely unique to your
+system. Maybe you select 2199. That means you keep hashing the result of the
 previous iteration that many times.
 
 There is another advantage to multi-hashing besides expanding the uniqueness of
