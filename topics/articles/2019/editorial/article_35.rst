@@ -65,8 +65,6 @@ into the input value. There are complicated and cool mathematical reasons this
 is possible but the important thing to understand is that you can't go in
 reverse. You cannot derive an input value from the output value.
 
-(add a sign post here, transitional)
-
 Storing Passwords
 -----------------
 When creating a password system, there is a location where the
