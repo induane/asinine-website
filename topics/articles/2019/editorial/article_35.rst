@@ -27,8 +27,8 @@ It's easy  to *say* "As a computer scientist, I can tell you that the charges
 are likely to be fabricated". And you'd either have to trust me or not trust me
 and that would probably depend a lot more on your own existing feelings about
 the case more than it would anything else. A more fun (for me anyway) approach
-is to explain exactly HOW some of these systems work and exactly WHY the charges
-appear to be so superficially fabricated. Interestingly all reasonably secure
+is to explain exactly HOW some of these systems work and exactly WHY the
+charges appear to be so superficially fabricated. All reasonably secure
 authentication systems use some permutation of the system I describe here.
 
 .. warning:: Technical jargon ahead
