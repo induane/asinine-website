@@ -194,12 +194,12 @@ advantage of this is that it would have allowed Manning to impersonate another
 user when accessing classified materials which would have made it more difficult
 to determine who stole the data.
 
-"The portion of the password Manning gave to Assange to crack was stored as
-a 'hash value' in a computer file that was accessible only by users with
-administrative-level privileges. Manning did not have administrative-level
-privileges, and used special software, namely a Linux operating system, to
-access the computer file and obtain the portion of the password provided to
-Assange." - Indictment: UNITED STATES OF AMERICA v JULIAN PAUL ASSANGE
+    *"The portion of the password Manning gave to Assange to crack was stored as
+    a 'hash value' in a computer file that was accessible only by users with
+    administrative-level privileges. Manning did not have administrative-level
+    privileges, and used special software, namely a Linux operating system, to
+    access the computer file and obtain the portion of the password provided to
+    Assange." - Indictment: UNITED STATES OF AMERICA v JULIAN PAUL ASSANGE*
 
 In order to "crack" a password (which is shorthand for taking a hash value and
 determining what password was used to generate it) one needs the actual
