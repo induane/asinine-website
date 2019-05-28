@@ -194,28 +194,36 @@ advantage of this is that it would have allowed Manning to impersonate another
 user when accessing classified materials which would have made it more difficult
 to determine who stole the data.
 
+"The portion of the password Manning gave to Assange to crack was stored as
+a 'hash value' in a computer file that was accessible only by users with
+administrative-level privileges. Manning did not have administrative-level
+privileges, and used special software, namely a Linux operating system, to
+access the computer file and obtain the portion of the password provided to
+Assange." - Indictment: UNITED STATES OF AMERICA v JULIAN PAUL ASSANGE
+
 In order to "crack" a password (which is shorthand for taking a hash value and
-determining what password was used to generate it) one would need the actual
+determining what password was used to generate it) one needs the actual
 usernames and hash values. This being the crown jewels of the authentication
 system, a very very small select group of persons would have access to this
-data. No mere analyst would. An analyst would only have access to login to
-SPIRNet to access material related to their work, and Chelsea Manning likely had
-access to classified materials but it would be absurd if she also had access to
-the entire authentication system's password-hash storage.
+data. An analyst—even one with top-secret clearance—should only have access to
+login to SPIRNet to access material related to their work, not access to all of
+the authentication systems underlying data. If Manning instead had physical
+access to the computers on which the hashes were stored it would still mean
+that they were not using any sort of disk encryption.
 
-Secondly, assuming that Manning somehow got a hold of this map of usernames-hash
-values, if the system were properly salted and had multi-hash applied, then
-even with all of the resources of Wikileaks at his disposal, Assange would have
-absolutely no chance of cracking said passwords.
+Assuming that Manning somehow got a hold of this map of usernames-hash values,
+if the system were properly salted and had multi-hash applied, then even with
+all of the resources of Wikileaks at his disposal, Assange would have
+no chance of cracking said passwords.
 
-When we hear about breaches of security with companies it's usually because they
-are using very bad security practices—either storing actual passwords instead
-of hash values or storing easily pre-computed hashes that aren't properly
-salted or multi-hashed. This happens, but it's usually the work of novice
-computer professionals, NOT the high level experts tasked with securing
-classified intelligence material. If the security were that lax, state-level
-intelligence agencies from other countries would long ago have breeched our
-systems.
+When we hear about breaches of security with companies it's usually because
+they are using very bad security practices—either storing actual passwords
+instead of hash values or storing easily pre-computed hashes that aren't
+properly salted or multi-hashed. This happens, but it's usually the work of
+inexperienced or lazy computer professionals, NOT the high level experts tasked
+with securing classified intelligence material. If the security were that lax,
+state-level intelligence agencies from other countries would long ago have
+breached our systems.
 
 If the accusations against Assange are true then SPIRNet is a woefully insecure
 system. If that's not the case then the charges against Assange must be
