@@ -20,7 +20,7 @@ One of two things is at play here. Either the charges are completely and utterly
 fabricated because the Justice Department has a bone to pick with Assange, or
 our security systems are so woefully inadequate that it's probably being hacked
 on a near constant basis by other countries' intelligence agencies. I'm going to
-assume it's the former because the alternative make the United States look so
+assume it's the former because the alternative makes the United States look so
 utterly inept that I wouldn't even know how to analyze the problem.
 
 It's easy  to *say* "As a computer scientist, I can tell you that the charges
@@ -153,7 +153,7 @@ Multi-Hashing
 
 Multi-Hashing expands the space of possible hashes for a password even further
 than merely salting does. It works by calculating the hash of the hash
-as if it were a password too, a large number of times.
+as if it were a password too—over and over multiple times.
 
 For example:
 
@@ -187,12 +187,12 @@ possibilities.
 
 Conclusion
 ----------
-What does this exactly have to do with Assange? He's being charged with agreeing
-to break a password to SPIRNet (Chelsea Manning is the former intelligence
-analyst with whom Assange is said to have engaged in said conspiracy). The
-advantage of this is that it would have allowed Manning to impersonate another
-user when accessing classified materials which would have made it more difficult
-to determine who stole the data.
+What does this have to do with Assange? He's being charged with agreeing to
+break a password to SPIRNet (Chelsea Manning is the former intelligence analyst
+with whom Assange is said to have engaged in said conspiracy). The advantage of
+this is that it would have allowed Manning to impersonate another user when
+accessing classified materials which would have made it more difficult to
+determine who stole the data.
 
     *"The portion of the password Manning gave to Assange to crack was stored as
     a 'hash value' in a computer file that was accessible only by users with
@@ -203,13 +203,13 @@ to determine who stole the data.
 
 In order to "crack" a password (which is shorthand for taking a hash value and
 determining what password was used to generate it) one needs the actual
-usernames and hash values. This being the crown jewels of the authentication
-system, a very very small select group of persons would have access to this
+usernames and hash values. These being the crown jewels of the authentication
+system, a very very small select group of persons should have access to this
 data. An analyst—even one with top-secret clearance—should only have access to
 login to SPIRNet to access material related to their work, not access to all of
-the authentication systems underlying data. If Manning instead had physical
-access to the computers on which the hashes were stored it would still mean
-that they were not using any sort of disk encryption.
+the authentication systems underlying data. If Manning had physical access to
+the computers on which the hashes were stored and was able to access the data,
+it would mean that they were not encrypting their stored data.
 
 Assuming that Manning somehow got a hold of this map of usernames-hash values,
 if the system were properly salted and had multi-hash applied, then even with
