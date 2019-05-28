@@ -16,13 +16,12 @@ with "conspiracy to commit computer intrusion". In essence it alleges that he
 agreed to break the password to a government computer system, specifically
 SPIRNet (Secret Internet Protocol Network).
 
-Either one of two things is at play here. Either the charges are completely and
-utterly fabricated because the Justice Department has a bone to pick with
-Assange, or our security systems are so woefully inadequate that it's probably
-being hacked on a near constant basis by other countries' intelligence agencies.
-I'm going to assume it's the former because the alternative make the United
-States look so utterly inept that I wouldn't even know how to analyze the
-problem.
+One of two things is at play here. Either the charges are completely and utterly
+fabricated because the Justice Department has a bone to pick with Assange, or
+our security systems are so woefully inadequate that it's probably being hacked
+on a near constant basis by other countries' intelligence agencies. I'm going to
+assume it's the former because the alternative make the United States look so
+utterly inept that I wouldn't even know how to analyze the problem.
 
 It's easy  to *say* "As a computer scientist, I can tell you that the charges
 are likely to be fabricated". And you'd either have to trust me or not trust me
