@@ -2,14 +2,14 @@
 
 .. _article_35:
 
-Assange: Computer Intrusion
-===========================
+Assuaging Assange
+=================
 
 .. container:: center
 
     by :ref:`brant`
 
-    2019-05-27
+    2019-05-29
 
 The United States Department of Justice has officially charged Julian Assange
 with "conspiracy to commit computer intrusion". In essence it alleges that he

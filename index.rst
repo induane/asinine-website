@@ -10,7 +10,7 @@ we are. Ask anybody.
 .. admonition:: Latest Article
    :class: note
 
-   April 4th, 2019: :ref:`Perception of Intention <article_32>`
+   May 29th, 2019: :ref:`Assuaging Assange <article_35>`
 
 .. toctree::
    :maxdepth: 1
