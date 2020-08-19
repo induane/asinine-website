@@ -1,6 +1,6 @@
 # Makefile for building doc
 
-PYTHON=python2.7
+PYTHON=python3
 ENV_DIR=.env_$(PYTHON)
 IN_ENV=. $(ENV_DIR)/bin/activate &&
 EPUB_ENV=export EPUB_ENV=True &&
@@ -33,7 +33,7 @@ env: $(ENV_DIR)
 $(ENV_DIR):
 	virtualenv -p $(PYTHON)  .env_$(PYTHON)
 
-build_reqs: env
+build-reqs: env
 	$(IN_ENV) pip install -r requirements.txt
 
 update:
@@ -81,18 +81,21 @@ clean:
 	-rm -rf _static/css/badge_only.css
 	-rm -rf _static/fonts
 	-rm -rf _static/js
-	- find . -name '*.pyc' -delete
-	- find . -name '*.pyo' -delete
+	- @find . -name '*.DS_Store' -delete
+	- @find . -name '*.pyc' -delete
+	- @find . -name '*.pyd' -delete
+	- @find . -name '*.pyo' -delete
+	- @find . -name '*__pycache__*' -delete
 
-.PHONY: env_clean
-env_clean:
+.PHONY: env-clean
+env-clean:
 	-rm -rf .env
 	-rm -rf .env_python2.6
 	-rm -rf .env_python2.7
 
 .PHONY: html
-html: build_reqs
-	cp -r $(ENV_DIR)/lib/$(PYTHON)/site-packages/sphinx_rtd_theme/static/* _static/
+html: build-reqs
+	cp -r $(ENV_DIR)/lib/python*/site-packages/sphinx_rtd_theme/static/* _static/
 	cat _static/css/custom.css >> _static/css/theme.css
 	$(BASEBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
 
@@ -164,7 +167,7 @@ devhelp:
 	@echo "# devhelp"
 
 .PHONY: latex
-latex: build_reqs
+latex: build-reqs
 	$(BASEBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
 	@echo
 	@echo "Build finished; the LaTeX files are in $(BUILDDIR)/latex."

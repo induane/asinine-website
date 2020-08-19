@@ -10,12 +10,13 @@ we are. Ask anybody.
 .. admonition:: Latest Article
    :class: note
 
-   May 29th, 2019: :ref:`Assuaging Assange <article_35>`
+   August 14th, 2020: :ref:`William Barr is a Threat To Democracy <article_38>`
 
 .. toctree::
    :maxdepth: 1
    :caption: Articles
 
+   topics/articles/2020/index
    topics/articles/2019/index
    topics/articles/2018/index
    topics/articles/2017/index

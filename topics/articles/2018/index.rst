@@ -4,7 +4,6 @@
 .. toctree::
    :caption: Editorial
 
-   editorial/article_32
    other/other_01
    editorial/article_31
    editorial/article_30

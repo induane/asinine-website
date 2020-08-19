@@ -2,10 +2,12 @@
 _build
 .env_python2.7
 .env_python2.6
+.env_python3
 _static/css/theme.css
 _static/css/badge_only.css
 _static/js
 _static/fonts
 GEB.log
 latex-mk.log
-
+*.py[cod]
+__pycache__/

@@ -704,16 +704,16 @@ Article XIV
    protection of the laws.
 
 2. Representatives shall be apportioned among the several states according to
-  their respective numbers, counting the whole number of persons in each state,
-  excluding Indians not taxed. But when the right to vote at any election for
-  the choice of electors for President and Vice President of the United States,
-  Representatives in Congress, the executive and judicial officers of a state,
-  or the members of the legislature thereof, is denied to any of the male
-  inhabitants of such state, being twenty-one years of age, and citizens of the
-  United States, or in any way abridged, except for participation in rebellion,
-  or other crime, the basis of representation therein shall be reduced in the
-  proportion which the number of such male citizens shall bear to the whole
-  number of male citizens twenty-one years of age in such state.
+   their respective numbers, counting the whole number of persons in each state,
+   excluding Indians not taxed. But when the right to vote at any election for
+   the choice of electors for President and Vice President of the United States,
+   Representatives in Congress, the executive and judicial officers of a state,
+   or the members of the legislature thereof, is denied to any of the male
+   inhabitants of such state, being twenty-one years of age, and citizens of the
+   United States, or in any way abridged, except for participation in rebellion,
+   or other crime, the basis of representation therein shall be reduced in the
+   proportion which the number of such male citizens shall bear to the whole
+   number of male citizens twenty-one years of age in such state.
 
 3. No person shall be a Senator or Representative in Congress, or elector of
    President and Vice President, or hold any office, civil or military, under
