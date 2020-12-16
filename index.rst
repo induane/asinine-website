@@ -10,7 +10,7 @@ we are. Ask anybody.
 .. admonition:: Latest Article
    :class: note
 
-   August 14th, 2020: :ref:`William Barr is a Threat To Democracy <article_38>`
+   December 15th, 2020: :ref:`Supreme Court Vacancies During Election Years <article_39>`
 
 .. toctree::
    :maxdepth: 1

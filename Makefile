@@ -96,6 +96,7 @@ env-clean:
 .PHONY: html
 html: build-reqs
 	cp -r $(ENV_DIR)/lib/python*/site-packages/sphinx_rtd_theme/static/* _static/
+	cp -r resources _build/html/
 	cat _static/css/custom.css >> _static/css/theme.css
 	$(BASEBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
 

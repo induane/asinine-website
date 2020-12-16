@@ -57,7 +57,7 @@ idea was to create a public perception that the Black Panther Party supported
 violence and was a dangerous criminal gang. As part of that plan, the
 government of The United States of America carried out an assassination of
 American *citizens* (and then manipulated/fabricated details of the event), and
-pursued other illegal [#f1]_ activities against it's own citizens.
+pursued other illegal activities[#f1]_ .
 
 It wasn't just the Black Panther Party that was targeted though. Other groups
 included:
@@ -97,7 +97,10 @@ warrants for specific information when required to do so by law enforcement. [#f
 There's a challenge with this sort of scheme though. The encryption is
 occurring in the transport layer (the pipes of the internet). This means that
 all of the traffic is essentially secured by the same core "key". If the key is
-ever revealed then all traffic before and in the future would be insecure.
+ever revealed then all traffic before and in the future would be insecure (it
+is a little more complicated than that and there are schemes for
+"perfect forward security" but they were not part of the LavaBit
+infrastructure).
 
 
 In July of 2013 the name LavaBit rose more in the public eye. It was revealed
@@ -175,19 +178,26 @@ private communications of every American is a pretty heavy-handed tactic. But,
 let's be generous here and assume they're operating purely in good faith. Is
 what they want actually possible?
 
-The short answer is ``NO`` and the longer answer is **completely and totally
-impossible no matter what you legislate**. There is no way to actually build
-weaknesses in encryption that *only* our **totally trustworthy government who
-definitely hasn't been known to kill it's own citizens** could access.
+The short answer is **NO** and the longer answer is that it is *completely and
+totally impossible no matter what you legislate.* There is no way to build
+weaknesses in encryption that *only* our government could access. Whenever you
+see an official suggesting or pushing for a "need" to be able to unlock phones
+or compel companies to break encryption, what you're seeing is the literal only
+protection against an Orwellian technocracy under attack. There is no way to
+make encryption backdoors that can't be abused. It's not a question of how or
+'just need to develop the technology' or anything else. It's as fundamental an
+issue as the roots of formal systems itself. It's not "hard", or "improbable".
+It's mathematically impossible."
 
-And even if they could invent this kind of encryption, which they can't, it
-won't actually stop any determined criminals.
+And even if they could invent this kind of encryption, **which they can't,**
+given what we know our own government to be capable of, it is difficult to
+imagine entrusting it with such power. Aside from that fact, it won't actually
+stop any determined criminals.
 
-
-I'm going to use the following code to do some demonstrations. This is a basic
-one-time-pad cipher. It is 100% uncrackable [#f7]_ . I'm not a genius but even
-I can understand the scheme and I can produce a secure implementation of it in
-a few lines of code:
+I'm going to use the following code to demonstrate this. I will use a basic
+one-time-pad cipher. It is 100% uncrackable (given some caveats) [#f7]_ . I'm
+not a genius but even I can understand the scheme and I can produce a secure
+implementation of it in a few lines of code:
 
 .. code-block:: python
 

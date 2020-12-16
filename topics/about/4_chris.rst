@@ -12,6 +12,12 @@ reality, his ammunition is logic, and his belt buckle is Zinc Alloy 3.
 
 
 .. toctree::
+   :caption: 2020 Articles
+
+   ../articles/2020/editorial/article_39
+
+
+.. toctree::
    :caption: 2018 Articles
 
    ../articles/2018/satire/satire_8
