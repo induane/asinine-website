@@ -89,16 +89,16 @@ clean:
 
 .PHONY: env-clean
 env-clean:
-	-rm -rf .env
+	-rm -rf .env*
 	-rm -rf .env_python2.6
 	-rm -rf .env_python2.7
 
 .PHONY: html
 html: build-reqs
 	cp -r $(ENV_DIR)/lib/python*/site-packages/sphinx_rtd_theme/static/* _static/
-	cp -r resources _build/html/
 	cat _static/css/custom.css >> _static/css/theme.css
 	$(BASEBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
+	cp -r resources _build/html/
 
 	@echo
 	@echo "Post build find/replace..."

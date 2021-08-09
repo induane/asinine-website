@@ -10,12 +10,13 @@ we are. Ask anybody.
 .. admonition:: Latest Article
    :class: note
 
-   December 15th, 2020: :ref:`Supreme Court Vacancies During Election Years <article_39>`
+  August 9th, 2021: :ref:`How the BioNTech Vaccine Works <article_40>`
 
 .. toctree::
    :maxdepth: 1
    :caption: Articles
 
+   topics/articles/2021/index
    topics/articles/2020/index
    topics/articles/2019/index
    topics/articles/2018/index
