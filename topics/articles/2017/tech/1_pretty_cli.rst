@@ -205,9 +205,9 @@ Wasn't the term **logging** mentioned previously? It *was*! It just took us a lo
 introduction of necessary concepts was a pretty deep one. Python ships with a very nice logging system as part of it's
 standard library.
 
-The important thing to remember about the logging system, is that if you're using a StreamHandler, then Python will log
-to *standard error* by default. That means you can use logging and all of it's nice facilities for all output. Here is
-an example with an overly basic logging setup::
+The important thing to remember about the logging system, is that if you're using a ``StreamHandler``, then Python will
+log to *standard error* by default. That means you can use logging and all of it's nice facilities for all output. Here
+is an example with an overly basic logging setup::
 
     import sys
     import logging
