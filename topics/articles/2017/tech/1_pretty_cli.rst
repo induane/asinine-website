@@ -113,7 +113,7 @@ Redirects
 ---------
 Pretty redundant seeming for now. But we have a few tricks up our sleeve. It's time to break out the handy concept of
 *redirection*. Here we will use our favorite standard redirect character: ``>`` Those of you familiar with POSIX
-compliant systems like BSD or Linux will recognize the meaning of this character  on the command line. It redirects the
+compliant systems like BSD or Linux will recognize the meaning of this character on the command line. It redirects the
 output of a command into a file. Check this out:
 
 .. code-block:: console
@@ -126,7 +126,17 @@ The first thing you'll notice is that ``I'm coding stuff`` was only written to y
 because we told it to write it twice; once to *standard out* and once to *standard error*. Our program didn't change.
 What happened is that everything written to *standard out* was written into a file called ``output.txt``. It doesn't
 matter that no such file existed before. The redirect (denoted by the ``>`` character) created that file. If you were
-to look, you'd see that a new file was created and the contents of that file are ``I'm coding stuff``.
+to look, you'd see that a new file was created and the contents of that file are ``I'm coding stuff``:
+
+.. code-block:: console
+
+    $ cat output.txt
+    I'm coding stuff
+    $
+
+.. tip:: Here I used ``cat`` to write the contents of the file to the console. This command is intended for
+    concatenation of multiple files (i.e. ``cat foo.txt bar.txt baz.txt > combined_file.txt``) but it
+    is also handy for dumping text content to your terminal.
 
 Getting Fancy
 -------------
@@ -141,7 +151,7 @@ edit ``test.py`` again, but this time we're going to make it really fancy::
     sys.stderr.write("Welcome to a boring program! It's terrible!\n")
     sys.stderr.write("Enter something and press [Enter]: ")
     sys.stderr.flush()      # This just says 'write to the terminal NOW!'
-    x = raw_input()         # Read whatever the user inputs and store it in 'x'
+    x = input()             # Read whatever the user inputs and store it in 'x'
 
     sys.stderr.write("You entered: ")
     sys.stderr.write(x)
@@ -163,9 +173,8 @@ First, just save the file and run the command:
     Bye loser!
     hello$
 
-.. note:: Here we use ``raw_input`` to read input from the user. Whatever the
-    user types in before pressing [Enter] will be saved in a variable called
-    ``x``.
+.. note:: Here we use ``input`` to read input from the user. Whatever the user types in before pressing [Enter] will
+    be saved in a variable called ``x``.
 
 First this is pretty stupid; we enter "hello" and get back a message that says we entered "hello". Then at the end,
 "hello" shows up on the screen again! Also, things look a little bit ugly because the new command prompt is still on
@@ -217,7 +226,7 @@ an example with an overly basic logging setup::
     LOG.info("-----------------------")
     LOG.info("Welcome to a boring program! It's terrible!")
     LOG.info("Enter a number and press [Enter]: ")
-    x = raw_input()         # Read whatever the user inputs and store it in 'x'
+    x = input()     # Read whatever the user inputs and store it in 'x'
     try:
         x = int(x)  # Try turning the value into an integer
     except ValueError:
