@@ -14,18 +14,6 @@ BUILDDIR      = build
 # Common env setup
 BASEBUILD = $(IN_ENV) $(SPHINXBUILD) -E
 
-# User-friendly check for sphinx-build
-# ifeq ($(shell which $(SPHINXBUILD) >/dev/null 2>&1; echo $$?), 1)
-# 	$(error The '$(SPHINXBUILD)' command was not found. Make sure you have Sphinx installed, then set the SPHINXBUILD environment variable to point to the full path of the '$(SPHINXBUILD)' executable. Alternatively you can add the directory with the executable to your PATH. If you don\'t have Sphinx installed, grab it from http://sphinx-doc.org/)
-# endif
-
-# Internal variables.
-PAPEROPT_a4     = -D latex_paper_size=a4
-PAPEROPT_letter = -D latex_paper_size=letter
-ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
-# the i18n builder cannot share the environment and doctrees with the others
-I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
-
 env: $(ENV_DIR)
 
 $(ENV_DIR):
@@ -61,20 +49,6 @@ env-clean:
 	-rm -rf .env_python2.6
 	-rm -rf .env_python2.7
 
-.PHONY: prep-html
-prep-html: build-reqs
-	cp -r $(ENV_DIR)/lib/python*/site-packages/sphinx_rtd_theme/static/* _static/
-	cat _static/css/custom.css >> _static/css/theme.css
-	$(BASEBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
-	cp -r resources _build/html/
-
-	@echo
-	@echo "Post build find/replace..."
-	- find _build/ -type f -print0 | xargs -0 sed -i 's/Search docs/Search/g'
-	- find _build/ -type f -print0 | xargs -0 sed -i 's/border="1"//g'
-	@echo
-	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
-
 # Put it first so that "make" without argument is like "make help".
 help:
 	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
@@ -89,3 +63,7 @@ help:
 	cp -r _static/* build/html/_static/
 	- find build/ -type f -print0 | xargs -0 sed -i 's/Search docs/Search/g'
 	- find build/ -type f -print0 | xargs -0 sed -i 's/border="1"//g'
+	rm -rf docs
+	mkdir docs
+	mv build/html/* docs/
+	rm -rf build
