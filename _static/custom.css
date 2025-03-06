@@ -1,0 +1,119 @@
+.wy-nav-content {
+    max-width: 1600px !important;
+}
+
+.wy-breadcrumbs {
+    display: none !important;
+}
+.version {
+    display: none !important;
+}
+
+/* Site color scheme modifications */
+.wy-side-nav-search {
+    background-color: #450001 !important;
+    background: #450001 !important;
+}
+.wy-nav-top {
+    background-color: #450001 !important;
+    background: #450001 !important;
+}
+.wy-side-nav-search {
+    font-size: 18px;
+}
+.wy-side-nav-search input[type="text"] {
+    border: 1px solid #f5c614 !important;
+    font-size: 14px;
+    border-radius: 2px !important;
+}
+
+.wy-side-nav-search input[type="text"]:focus {
+    box-shadow: rgba(245, 198, 20, 0.9) 0 0 5px inset !important;
+}
+
+.wy-nav-side {
+    background: #333333 !important;
+}
+/*a.reference:visited{color: #450001;}*/
+
+/* Hide some headings */
+#articles h2 {
+    display: none !important;
+}
+#satire h2 {
+    display: none !important;
+}
+#terms h2 {
+    display: none !important;
+}
+#technology h2 {
+    display: none !important;
+}
+
+/* Don't show the headerlink icon on a mouse hover */
+.headerlink {
+    content: "" !important;
+    display: none !important;
+}
+
+/* Don't show booter buttons */
+footer {
+    display: none !important;
+}
+
+/* Hide breadcrumbs navigation links */
+div[aria-label="breadcrumbs navigation"] {
+    display: none !important;
+}
+
+/* Special table used for certain figures */
+.figure-table {
+    margin-top: -48px;
+    margin-left: 60px;
+}
+
+/* Table border changes */
+table.docutils {
+    border-collapse: collapse !important;
+    border-style: none !important;
+    border: 0 !important;
+}
+
+.center {
+    text-align: center;
+    margin-bottom: 1em;
+}
+.mono-center {
+    text-align: center;
+    font-family: monospace;
+    margin-bottom: 1em;
+}
+h1 {
+    text-align: center !important;
+}
+/*h2 { text-align: center !important; }*/
+/*h3 { text-align: center !important; }*/
+
+/*ul>li .toctree-l1 {list-style: none inside !important; list-style-type: none !important;}*/
+.toctree-l1 {
+    list-style: none inside !important;
+    list-style-type: none !important;
+}
+.toctree-l2 {
+    list-style: none inside !important;
+    list-style-type: none !important;
+}
+.toctree-l3 {
+    list-style: none inside !important;
+    list-style-type: none !important;
+}
+
+body {
+    -moz-osx-font-smoothing: grayscale !important;
+    -webkit-font-smoothing: antialiased !important;
+    font-smoothing: antialiased !important;
+}
+
+.wy-menu .caption-text {
+    color: #f5c614 !important;
+}
