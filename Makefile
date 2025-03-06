@@ -66,4 +66,5 @@ help:
 	rm -rf docs
 	mkdir docs
 	mv build/html/* docs/
+	touch docs/.nojekyll
 	rm -rf build

@@ -7,10 +7,16 @@ Four friends from the middle of the good ol' US of A.
 Yes, we are friends. Trust us. We are the best friends. Nobody is friends like
 we are. Ask anybody.
 
-.. admonition:: Latest Article
-   :class: note
+.. note:: Latest Article
 
   August 9th, 2021: :ref:`How the BioNTech Vaccine Works <article_40>`
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Harren Press
+
+   topics/harren_press/index
 
 .. toctree::
    :maxdepth: 1
@@ -21,12 +27,6 @@ we are. Ask anybody.
    topics/articles/2019/index
    topics/articles/2018/index
    topics/articles/2017/index
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Harren Press
-
-   topics/harren_press/index
 
 .. toctree::
    :maxdepth: 1
