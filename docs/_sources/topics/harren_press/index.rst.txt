@@ -5,8 +5,9 @@
 
 .. _harrenpress:
 
-Harren Press
-============
+Books
+=====
+
 Harren Press is a small book publisher based out of Kansas, USA. It was founded
 in 2012 by :ref:`jesse` and :ref:`chris`. With the help of Brianna Guinn,
 Samantha Lafantasie, and friends Nick and Jules Bastin, we had a successful

@@ -17,16 +17,8 @@ we are. Ask anybody.
    :caption: Harren Press
 
    topics/harren_press/index
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Articles
-
-   topics/articles/2021/index
-   topics/articles/2020/index
-   topics/articles/2019/index
-   topics/articles/2018/index
-   topics/articles/2017/index
+   topics/articles/index
+   topics/short_stories/index
 
 .. toctree::
    :maxdepth: 1
