@@ -7,9 +7,9 @@ Four friends from the middle of the good ol' US of A.
 Yes, we are friends. Trust us. We are the best friends. Nobody is friends like
 we are. Ask anybody.
 
-.. note:: Latest Article
+.. note:: Latest Short Story
 
-  August 9th, 2021: :ref:`How the BioNTech Vaccine Works <article_40>`
+  May 17th, 2025: :ref:`The Ransom of Dragons <ransom_of_dragons>`
 
 
 .. toctree::

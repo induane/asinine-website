@@ -3,4 +3,6 @@
 Short Stories
 =============
 
-None yet, check back soon. We have some new things in the hopper!
+.. toctree::
+
+   ransom_of_dragons
