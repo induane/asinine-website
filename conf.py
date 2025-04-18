@@ -16,3 +16,5 @@ exclude_patterns = []
 
 html_theme = "sphinx_rtd_theme"
 html_css_files = ["custom.css"]
+html_title = "Harren Press/Asinine Media"
+html_short_title = "Asinine"
