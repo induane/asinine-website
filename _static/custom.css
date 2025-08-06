@@ -117,3 +117,29 @@ body {
 .wy-menu .caption-text {
     color: #f5c614 !important;
 }
+
+.rst-content kbd,
+.rst-content pre,
+.rst-content samp {
+    font-family:
+        Ubuntu Mono,
+        DejaVu Sans Mono,
+        Fira Mono,
+        Adwaita Mono,
+        Libertinus Mono,
+        Liberation Mono,
+        monospace;
+}
+
+.rst-content .linenodiv pre,
+.rst-content div[class^="highlight"] pre,
+.rst-content pre.literal-block {
+    font-family:
+        Ubuntu Mono,
+        DejaVu Sans Mono,
+        Fira Mono,
+        Adwaita Mono,
+        Libertinus Mono,
+        Liberation Mono,
+        monospace;
+}
