@@ -58,7 +58,7 @@ to look like this::
 
     import sys
 
-    sys.stdout.write("I'm coding stuff\n")
+    sys.stdout.write("I'm coding stuff\\n")
 
 Now, as before, save then run it:
 
@@ -77,7 +77,7 @@ Now an experiment: open ``test.py`` and change ``stdout`` to ``stderr``. The res
 
     import sys
 
-    sys.stderr.write("I'm coding stuff\n")
+    sys.stderr.write("I'm coding stuff\\n")
 
 Run it once more:
 
@@ -95,8 +95,8 @@ like the following::
 
     import sys
 
-    sys.stdout.write("I'm coding stuff\n")
-    sys.stderr.write("I'm coding stuff\n")
+    sys.stdout.write("I'm coding stuff\\n")
+    sys.stderr.write("I'm coding stuff\\n")
 
 If you save then run this program you get:
 
@@ -144,17 +144,17 @@ edit ``test.py`` again, but this time we're going to make it really fancy::
 
     import sys
 
-    sys.stderr.write("FILE WRITER VERSION 1.0\n")
-    sys.stderr.write("-----------------------\n")
-    sys.stderr.write("Welcome to a boring program! It's terrible!\n")
+    sys.stderr.write("FILE WRITER VERSION 1.0\\n")
+    sys.stderr.write("-----------------------\\n")
+    sys.stderr.write("Welcome to a boring program! It's terrible!\\n")
     sys.stderr.write("Enter something and press [Enter]: ")
     sys.stderr.flush()      # This just says 'write to the terminal NOW!'
     x = input()             # Read whatever the user inputs and store it in 'x'
 
     sys.stderr.write("You entered: ")
     sys.stderr.write(x)
-    sys.stderr.write("\n")  # Writes a newline after whatever was in 'x'
-    sys.stderr.write("Bye loser!\n")
+    sys.stderr.write("\\n")  # Writes a newline after whatever was in 'x'
+    sys.stderr.write("Bye loser!\\n")
     sys.stderr.flush()      # Same as using flush before
     sys.stdout.write(x)     # Writes the contents of 'x' to standard out
 
